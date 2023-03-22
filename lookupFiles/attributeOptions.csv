@@ -1,0 +1,2229 @@
+sku,product,attribute_id,attribute,value_id,value,"default value"
+001,"Classic business card",1,paper,822,chromo_matte_300,chromo_matte_300
+001,"Classic business card",1,paper,823,chromo_glossy_300,chromo_matte_300
+001,"Classic business card",1,paper,833,twill_250,chromo_matte_300
+001,"Classic business card",1,paper,991,ecological,chromo_matte_300
+001,"Classic business card",2,format,834,horizontal,horizontal
+001,"Classic business card",2,format,835,vertical,horizontal
+001,"Classic business card",2,format,929,square,horizontal
+001,"Classic business card",4,colors,1400,print_color_colorful,print_color_colorful
+001,"Classic business card",6,lamination,933,lamination_no,lamination_2sides_matte
+001,"Classic business card",6,lamination,843,lamination_2sides_matte,lamination_2sides_matte
+001,"Classic business card",6,lamination,845,lamination_2sides_glossy,lamination_2sides_matte
+001,"Classic business card",6,lamination,1026,lamination_2sides_premium,lamination_2sides_matte
+001,"Classic business card",7,round_corners,804,round_corners_yes,round_corners_yes
+001,"Classic business card",7,round_corners,805,round_corners_no,round_corners_yes
+001,"Classic business card",13,production_time,1134,industrial,budget
+001,"Classic business card",13,production_time,754,budget,budget
+001,"Classic business card",13,production_time,755,standard,budget
+001,"Classic business card",13,production_time,756,express,budget
+001,"Classic business card",14,size,836,business_card_85x55,business_card_90x50
+001,"Classic business card",14,size,837,business_card_90x50,business_card_90x50
+001,"Classic business card",14,size,990,business_card_65x65,business_card_90x50
+001,"Classic business card",30,fix_it,1131,fix_it_no,fix_it_no
+001,"Classic business card",30,fix_it,1130,fix_it_yes,fix_it_no
+001,"Classic business card",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+001,"Classic business card",33,printed_side,1399,printed_side_duplex,printed_side_simplex
+002,Letterhead,1,paper,820,woodfree_80,woodfree_80
+002,Letterhead,2,format,835,vertical,vertical
+002,Letterhead,4,colors,1400,print_color_colorful,print_color_colorful
+002,Letterhead,13,production_time,1134,industrial,budget
+002,Letterhead,13,production_time,754,budget,budget
+002,Letterhead,13,production_time,755,standard,budget
+002,Letterhead,13,production_time,756,express,budget
+002,Letterhead,14,size,931,a4_hor_with_bleed,a4_hor_with_bleed
+002,Letterhead,30,fix_it,1131,fix_it_no,fix_it_no
+002,Letterhead,30,fix_it,1130,fix_it_yes,fix_it_no
+002,Letterhead,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+002,Letterhead,33,printed_side,1399,printed_side_duplex,printed_side_simplex
+003,Envelope,4,colors,1400,print_color_colorful,print_color_colorful
+003,Envelope,13,production_time,1134,industrial,budget
+003,Envelope,13,production_time,754,budget,budget
+003,Envelope,13,production_time,755,standard,budget
+003,Envelope,13,production_time,756,express,budget
+003,Envelope,14,size,760,envelope_11x23,envelope_11x23
+003,Envelope,14,size,761,envelope_16x23_7,envelope_11x23
+003,Envelope,14,size,875,envelope_23x33_5,envelope_11x23
+003,Envelope,30,fix_it,1131,fix_it_no,fix_it_no
+003,Envelope,30,fix_it,1130,fix_it_yes,fix_it_no
+004,"Envelope with window",4,colors,1400,print_color_colorful,print_color_colorful
+004,"Envelope with window",13,production_time,1134,industrial,budget
+004,"Envelope with window",13,production_time,754,budget,budget
+004,"Envelope with window",13,production_time,755,standard,budget
+004,"Envelope with window",13,production_time,756,express,budget
+004,"Envelope with window",14,size,760,envelope_11x23,envelope_11x23
+004,"Envelope with window",14,size,761,envelope_16x23_7,envelope_11x23
+004,"Envelope with window",30,fix_it,1131,fix_it_no,fix_it_no
+004,"Envelope with window",30,fix_it,1130,fix_it_yes,fix_it_no
+005,Pen,4,colors,794,print_color_black,print_color_black
+005,Pen,4,colors,796,print_color_white,print_color_black
+005,Pen,4,colors,795,print_color_silver,print_color_black
+005,Pen,13,production_time,1134,industrial,budget
+005,Pen,13,production_time,754,budget,budget
+005,Pen,14,size,992,pen_45x10,pen_45x10
+005,Pen,15,product_color,808,pen_blue,pen_blue
+005,Pen,15,product_color,809,pen_red,pen_blue
+005,Pen,15,product_color,810,pen_green,pen_blue
+005,Pen,15,product_color,862,pen_orange,pen_blue
+005,Pen,15,product_color,863,pen_pink,pen_blue
+005,Pen,15,product_color,864,pen_purple,pen_blue
+005,Pen,15,product_color,865,pen_sky_blue,pen_blue
+005,Pen,15,product_color,866,pen_lime,pen_blue
+005,Pen,15,product_color,867,pen_yellow,pen_blue
+005,Pen,15,product_color,886,pen_black,pen_blue
+005,Pen,15,product_color,887,pen_white,pen_blue
+005,Pen,30,fix_it,1131,fix_it_no,fix_it_no
+005,Pen,30,fix_it,1130,fix_it_yes,fix_it_no
+006,"Paper poster",1,paper,923,poster_170,poster_170
+006,"Paper poster",2,format,834,horizontal,horizontal
+006,"Paper poster",2,format,835,vertical,horizontal
+006,"Paper poster",4,colors,1400,print_color_colorful,print_color_colorful
+006,"Paper poster",13,production_time,1134,industrial,budget
+006,"Paper poster",13,production_time,754,budget,budget
+006,"Paper poster",13,production_time,755,standard,budget
+006,"Paper poster",13,production_time,756,express,budget
+006,"Paper poster",14,size,941,poster_a4,poster_a4
+006,"Paper poster",14,size,942,poster_a3,poster_a4
+006,"Paper poster",14,size,839,poster_70_50,poster_a4
+006,"Paper poster",14,size,840,poster_80_60,poster_a4
+006,"Paper poster",14,size,838,poster_100_70,poster_a4
+006,"Paper poster",30,fix_it,1131,fix_it_no,fix_it_no
+006,"Paper poster",30,fix_it,1130,fix_it_yes,fix_it_no
+007,"Print on Kappa",1,paper,847,kappa_10,kappa_10
+007,"Print on Kappa",2,format,834,horizontal,horizontal
+007,"Print on Kappa",2,format,835,vertical,horizontal
+007,"Print on Kappa",2,format,929,square,horizontal
+007,"Print on Kappa",4,colors,1400,print_color_colorful,print_color_colorful
+007,"Print on Kappa",13,production_time,1134,industrial,budget
+007,"Print on Kappa",13,production_time,754,budget,budget
+007,"Print on Kappa",13,production_time,755,standard,budget
+007,"Print on Kappa",13,production_time,756,express,budget
+007,"Print on Kappa",14,size,1366,kappa_poster_a4,kappa_poster_a4
+007,"Print on Kappa",14,size,1367,kappa_poster_a3,kappa_poster_a4
+007,"Print on Kappa",14,size,1368,kappa_poster_50x70,kappa_poster_a4
+007,"Print on Kappa",14,size,1369,kappa_poster_60x80,kappa_poster_a4
+007,"Print on Kappa",14,size,1370,kappa_poster_70x100,kappa_poster_a4
+007,"Print on Kappa",14,size,1371,kappa_poater_30x30,kappa_poster_a4
+007,"Print on Kappa",14,size,1372,kappa_poster_40x40,kappa_poster_a4
+007,"Print on Kappa",20,hanging_clip,781,hanging_clip_yes,hanging_clip_yes
+007,"Print on Kappa",20,hanging_clip,782,hanging_clip_no,hanging_clip_yes
+007,"Print on Kappa",30,fix_it,1131,fix_it_no,fix_it_no
+007,"Print on Kappa",30,fix_it,1130,fix_it_yes,fix_it_no
+008,"Print on Alucobond",2,format,834,horizontal,horizontal
+008,"Print on Alucobond",2,format,835,vertical,horizontal
+008,"Print on Alucobond",2,format,929,square,horizontal
+008,"Print on Alucobond",4,colors,1400,print_color_colorful,print_color_colorful
+008,"Print on Alucobond",13,production_time,1134,industrial,industrial
+008,"Print on Alucobond",14,size,927,art_print_30x30,art_print_30x30
+008,"Print on Alucobond",14,size,928,art_print_40x40,art_print_30x30
+008,"Print on Alucobond",14,size,936,art_print_a4,art_print_30x30
+008,"Print on Alucobond",14,size,937,art_print_a3,art_print_30x30
+008,"Print on Alucobond",14,size,938,art_print_50x70,art_print_30x30
+008,"Print on Alucobond",14,size,939,art_print_60x80,art_print_30x30
+008,"Print on Alucobond",21,hanging_holes,789,hanging_holes_yes,hanging_holes_no
+008,"Print on Alucobond",21,hanging_holes,790,hanging_holes_no,hanging_holes_no
+008,"Print on Alucobond",22,screws,792,screws_yes,screws_no
+008,"Print on Alucobond",22,screws,793,screws_no,screws_no
+008,"Print on Alucobond",30,fix_it,1131,fix_it_no,fix_it_no
+008,"Print on Alucobond",30,fix_it,1130,fix_it_yes,fix_it_no
+009,"Print on Perspex",2,format,834,horizontal,horizontal
+009,"Print on Perspex",2,format,835,vertical,horizontal
+009,"Print on Perspex",2,format,929,square,horizontal
+009,"Print on Perspex",4,colors,1400,print_color_colorful,print_color_colorful
+009,"Print on Perspex",13,production_time,1134,industrial,budget
+009,"Print on Perspex",13,production_time,754,budget,budget
+009,"Print on Perspex",14,size,927,art_print_30x30,art_print_30x30
+009,"Print on Perspex",14,size,928,art_print_40x40,art_print_30x30
+009,"Print on Perspex",14,size,936,art_print_a4,art_print_30x30
+009,"Print on Perspex",14,size,937,art_print_a3,art_print_30x30
+009,"Print on Perspex",14,size,938,art_print_50x70,art_print_30x30
+009,"Print on Perspex",14,size,939,art_print_60x80,art_print_30x30
+009,"Print on Perspex",14,size,940,art_print_70x100,art_print_30x30
+009,"Print on Perspex",15,product_color,1088,product_color_white,product_color_white
+009,"Print on Perspex",15,product_color,1460,car_sticker_a3_clear,product_color_white
+009,"Print on Perspex",21,hanging_holes,789,hanging_holes_yes,hanging_holes_no
+009,"Print on Perspex",21,hanging_holes,790,hanging_holes_no,hanging_holes_no
+009,"Print on Perspex",22,screws,792,screws_yes,screws_no
+009,"Print on Perspex",22,screws,793,screws_no,screws_no
+009,"Print on Perspex",30,fix_it,1131,fix_it_no,fix_it_no
+009,"Print on Perspex",30,fix_it,1130,fix_it_yes,fix_it_no
+010,"Print on PVC",2,format,834,horizontal,horizontal
+010,"Print on PVC",2,format,835,vertical,horizontal
+010,"Print on PVC",2,format,929,square,horizontal
+010,"Print on PVC",4,colors,1400,print_color_colorful,print_color_colorful
+010,"Print on PVC",13,production_time,754,budget,budget
+010,"Print on PVC",13,production_time,1134,industrial,budget
+010,"Print on PVC",14,size,927,art_print_30x30,art_print_30x30
+010,"Print on PVC",14,size,928,art_print_40x40,art_print_30x30
+010,"Print on PVC",14,size,936,art_print_a4,art_print_30x30
+010,"Print on PVC",14,size,937,art_print_a3,art_print_30x30
+010,"Print on PVC",14,size,938,art_print_50x70,art_print_30x30
+010,"Print on PVC",14,size,939,art_print_60x80,art_print_30x30
+010,"Print on PVC",14,size,940,art_print_70x100,art_print_30x30
+010,"Print on PVC",21,hanging_holes,789,hanging_holes_yes,hanging_holes_no
+010,"Print on PVC",21,hanging_holes,790,hanging_holes_no,hanging_holes_no
+010,"Print on PVC",22,screws,792,screws_yes,screws_no
+010,"Print on PVC",22,screws,793,screws_no,screws_no
+010,"Print on PVC",30,fix_it,1130,fix_it_yes,fix_it_no
+010,"Print on PVC",30,fix_it,1131,fix_it_no,fix_it_no
+011,"Print on Cardboard",2,format,834,horizontal,horizontal
+011,"Print on Cardboard",2,format,835,vertical,horizontal
+011,"Print on Cardboard",2,format,929,square,horizontal
+011,"Print on Cardboard",4,colors,1400,print_color_colorful,print_color_colorful
+011,"Print on Cardboard",13,production_time,754,budget,budget
+011,"Print on Cardboard",13,production_time,1134,industrial,budget
+011,"Print on Cardboard",14,size,927,art_print_30x30,art_print_30x30
+011,"Print on Cardboard",14,size,928,art_print_40x40,art_print_30x30
+011,"Print on Cardboard",14,size,936,art_print_a4,art_print_30x30
+011,"Print on Cardboard",14,size,937,art_print_a3,art_print_30x30
+011,"Print on Cardboard",14,size,938,art_print_50x70,art_print_30x30
+011,"Print on Cardboard",14,size,939,art_print_60x80,art_print_30x30
+011,"Print on Cardboard",14,size,940,art_print_70x100,art_print_30x30
+011,"Print on Cardboard",30,fix_it,1130,fix_it_yes,fix_it_no
+011,"Print on Cardboard",30,fix_it,1131,fix_it_no,fix_it_no
+012,"T Shirt Round Neck",2,format,765,front_small,front_small
+012,"T Shirt Round Neck",2,format,852,front_big,front_small
+012,"T Shirt Round Neck",2,format,853,front_small_back,front_small
+012,"T Shirt Round Neck",2,format,854,front_big_back,front_small
+012,"T Shirt Round Neck",2,format,855,back,front_small
+012,"T Shirt Round Neck",4,colors,794,print_color_black,print_color_black
+012,"T Shirt Round Neck",4,colors,796,print_color_white,print_color_black
+012,"T Shirt Round Neck",13,production_time,1134,industrial,industrial
+012,"T Shirt Round Neck",15,product_color,797,shirt_dark_blue,shirt_dark_blue
+012,"T Shirt Round Neck",15,product_color,798,shirt_red,shirt_dark_blue
+012,"T Shirt Round Neck",15,product_color,879,shirt_black,shirt_dark_blue
+012,"T Shirt Round Neck",15,product_color,880,shirt_green,shirt_dark_blue
+012,"T Shirt Round Neck",15,product_color,881,shirt_grey,shirt_dark_blue
+012,"T Shirt Round Neck",15,product_color,882,shirt_orange,shirt_dark_blue
+012,"T Shirt Round Neck",15,product_color,883,shirt_purple,shirt_dark_blue
+012,"T Shirt Round Neck",15,product_color,884,shirt_white,shirt_dark_blue
+012,"T Shirt Round Neck",15,product_color,885,shirt_yellow,shirt_dark_blue
+012,"T Shirt Round Neck",23,clothing_size,869,size_s,size_s
+012,"T Shirt Round Neck",23,clothing_size,870,size_m,size_s
+012,"T Shirt Round Neck",23,clothing_size,871,size_l,size_s
+012,"T Shirt Round Neck",23,clothing_size,872,size_xl,size_s
+012,"T Shirt Round Neck",23,clothing_size,874,size_xxxl,size_s
+012,"T Shirt Round Neck",30,fix_it,1131,fix_it_no,fix_it_no
+012,"T Shirt Round Neck",30,fix_it,1130,fix_it_yes,fix_it_no
+013,"T Shirt V Neck",2,format,765,front_small,front_small
+013,"T Shirt V Neck",2,format,852,front_big,front_small
+013,"T Shirt V Neck",2,format,853,front_small_back,front_small
+013,"T Shirt V Neck",2,format,854,front_big_back,front_small
+013,"T Shirt V Neck",2,format,855,back,front_small
+013,"T Shirt V Neck",4,colors,794,print_color_black,print_color_black
+013,"T Shirt V Neck",4,colors,796,print_color_white,print_color_black
+013,"T Shirt V Neck",13,production_time,1134,industrial,industrial
+013,"T Shirt V Neck",15,product_color,797,shirt_dark_blue,shirt_dark_blue
+013,"T Shirt V Neck",15,product_color,879,shirt_black,shirt_dark_blue
+013,"T Shirt V Neck",15,product_color,881,shirt_grey,shirt_dark_blue
+013,"T Shirt V Neck",15,product_color,884,shirt_white,shirt_dark_blue
+013,"T Shirt V Neck",23,clothing_size,869,size_s,size_m
+013,"T Shirt V Neck",23,clothing_size,870,size_m,size_m
+013,"T Shirt V Neck",23,clothing_size,871,size_l,size_m
+013,"T Shirt V Neck",23,clothing_size,872,size_xl,size_m
+013,"T Shirt V Neck",23,clothing_size,874,size_xxxl,size_m
+013,"T Shirt V Neck",30,fix_it,1131,fix_it_no,fix_it_no
+013,"T Shirt V Neck",30,fix_it,1130,fix_it_yes,fix_it_no
+014,Sweatshirt,2,format,765,front_small,front_small
+014,Sweatshirt,2,format,852,front_big,front_small
+014,Sweatshirt,2,format,853,front_small_back,front_small
+014,Sweatshirt,2,format,854,front_big_back,front_small
+014,Sweatshirt,2,format,855,back,front_small
+014,Sweatshirt,4,colors,794,print_color_black,print_color_black
+014,Sweatshirt,4,colors,796,print_color_white,print_color_black
+014,Sweatshirt,13,production_time,1134,industrial,industrial
+014,Sweatshirt,15,product_color,1000,sweatshirt_black,sweatshirt_black
+014,Sweatshirt,15,product_color,1001,sweatshirt_bordeaux,sweatshirt_black
+014,Sweatshirt,15,product_color,1002,sweatshirt_dark_blue,sweatshirt_black
+014,Sweatshirt,15,product_color,1003,sweatshirt_green,sweatshirt_black
+014,Sweatshirt,15,product_color,1004,sweatshirt_orange,sweatshirt_black
+014,Sweatshirt,15,product_color,1005,sweatshirt_purple,sweatshirt_black
+014,Sweatshirt,15,product_color,1006,sweatshirt_red,sweatshirt_black
+014,Sweatshirt,15,product_color,1007,sweatshirt_turquoise,sweatshirt_black
+014,Sweatshirt,15,product_color,1008,sweatshirt_white,sweatshirt_black
+014,Sweatshirt,23,clothing_size,869,size_s,size_m
+014,Sweatshirt,23,clothing_size,870,size_m,size_m
+014,Sweatshirt,23,clothing_size,871,size_l,size_m
+014,Sweatshirt,23,clothing_size,872,size_xl,size_m
+014,Sweatshirt,30,fix_it,1131,fix_it_no,fix_it_no
+014,Sweatshirt,30,fix_it,1130,fix_it_yes,fix_it_no
+015,"Roll Up",4,colors,1400,print_color_colorful,print_color_colorful
+015,"Roll Up",13,production_time,1134,industrial,budget
+015,"Roll Up",13,production_time,754,budget,budget
+015,"Roll Up",13,production_time,755,standard,budget
+015,"Roll Up",13,production_time,756,express,budget
+015,"Roll Up",14,size,888,rollup_a4,rollup_85x200
+015,"Roll Up",14,size,889,rollup_a3,rollup_85x200
+015,"Roll Up",14,size,877,rollup_85x100,rollup_85x200
+015,"Roll Up",14,size,876,rollup_85x200,rollup_85x200
+015,"Roll Up",14,size,878,rollup_150x200,rollup_85x200
+015,"Roll Up",30,fix_it,1131,fix_it_no,fix_it_no
+015,"Roll Up",30,fix_it,1130,fix_it_yes,fix_it_no
+016,Postcard,1,paper,824,chromo_matte_220,chromo_matte_300
+016,Postcard,1,paper,825,chromo_glossy_220,chromo_matte_300
+016,Postcard,1,paper,822,chromo_matte_300,chromo_matte_300
+016,Postcard,1,paper,823,chromo_glossy_300,chromo_matte_300
+016,Postcard,1,paper,991,ecological,chromo_matte_300
+016,Postcard,2,format,834,horizontal,horizontal
+016,Postcard,2,format,835,vertical,horizontal
+016,Postcard,4,colors,1400,print_color_colorful,print_color_colorful
+016,Postcard,6,lamination,933,lamination_no,lamination_no
+016,Postcard,6,lamination,843,lamination_2sides_matte,lamination_no
+016,Postcard,6,lamination,845,lamination_2sides_glossy,lamination_no
+016,Postcard,13,production_time,1134,industrial,budget
+016,Postcard,13,production_time,754,budget,budget
+016,Postcard,13,production_time,755,standard,budget
+016,Postcard,13,production_time,756,express,budget
+016,Postcard,14,size,890,postcard_10x15,postcard_10x15
+016,Postcard,30,fix_it,1131,fix_it_no,fix_it_no
+016,Postcard,30,fix_it,1130,fix_it_yes,fix_it_no
+016,Postcard,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+016,Postcard,33,printed_side,1399,printed_side_duplex,printed_side_simplex
+017,"Folded postcard",1,paper,824,chromo_matte_220,chromo_matte_300
+017,"Folded postcard",1,paper,825,chromo_glossy_220,chromo_matte_300
+017,"Folded postcard",1,paper,822,chromo_matte_300,chromo_matte_300
+017,"Folded postcard",1,paper,823,chromo_glossy_300,chromo_matte_300
+017,"Folded postcard",1,paper,991,ecological,chromo_matte_300
+017,"Folded postcard",4,colors,1400,print_color_colorful,print_color_colorful
+017,"Folded postcard",6,lamination,933,lamination_no,lamination_no
+017,"Folded postcard",6,lamination,843,lamination_2sides_matte,lamination_no
+017,"Folded postcard",6,lamination,845,lamination_2sides_glossy,lamination_no
+017,"Folded postcard",13,production_time,1134,industrial,budget
+017,"Folded postcard",13,production_time,754,budget,budget
+017,"Folded postcard",13,production_time,755,standard,budget
+017,"Folded postcard",13,production_time,756,express,budget
+017,"Folded postcard",14,size,994,folded_postcard_20x15,folded_postcard_20x15
+017,"Folded postcard",30,fix_it,1131,fix_it_no,fix_it_no
+017,"Folded postcard",30,fix_it,1130,fix_it_yes,fix_it_no
+018,"Memo block",1,paper,820,woodfree_80,woodfree_80
+018,"Memo block",4,colors,1400,print_color_colorful,print_color_colorful
+018,"Memo block",13,production_time,754,budget,budget
+018,"Memo block",13,production_time,755,standard,budget
+018,"Memo block",13,production_time,1134,industrial,budget
+018,"Memo block",14,size,894,memo_10x10,memo_10x10
+018,"Memo block",19,glue,779,glue_yes,glue_no
+018,"Memo block",19,glue,780,glue_no,glue_no
+018,"Memo block",27,amount_in_block,913,amount_in_block_50,amount_in_block_50
+018,"Memo block",27,amount_in_block,914,amount_in_block_100,amount_in_block_50
+018,"Memo block",27,amount_in_block,915,amount_in_block_150,amount_in_block_50
+018,"Memo block",30,fix_it,1130,fix_it_yes,fix_it_no
+018,"Memo block",30,fix_it,1131,fix_it_no,fix_it_no
+019,Planner,1,paper,820,woodfree_80,woodfree_80
+019,Planner,4,colors,1400,print_color_colorful,print_color_colorful
+019,Planner,13,production_time,754,budget,budget
+019,Planner,13,production_time,755,standard,budget
+019,Planner,13,production_time,1134,industrial,budget
+019,Planner,14,size,943,block_size_a4,block_size_a4
+019,Planner,14,size,944,block_size_a3,block_size_a4
+019,Planner,27,amount_in_block,913,amount_in_block_50,amount_in_block_50
+019,Planner,27,amount_in_block,914,amount_in_block_100,amount_in_block_50
+019,Planner,27,amount_in_block,915,amount_in_block_150,amount_in_block_50
+019,Planner,30,fix_it,1131,fix_it_no,fix_it_no
+019,Planner,30,fix_it,1130,fix_it_yes,fix_it_no
+020,"Candy box",4,colors,794,print_color_black,print_color_black
+020,"Candy box",4,colors,796,print_color_white,print_color_black
+020,"Candy box",13,production_time,754,budget,budget
+020,"Candy box",13,production_time,1134,industrial,budget
+020,"Candy box",14,size,993,candy_42x42,candy_42x42
+020,"Candy box",15,product_color,895,candies_black,candies_black
+020,"Candy box",15,product_color,896,candies_blue,candies_black
+020,"Candy box",15,product_color,897,candies_orange,candies_black
+020,"Candy box",15,product_color,898,candies_pink,candies_black
+020,"Candy box",15,product_color,899,candies_red,candies_black
+020,"Candy box",15,product_color,900,candies_silver,candies_black
+020,"Candy box",15,product_color,901,candies_white,candies_black
+020,"Candy box",30,fix_it,1130,fix_it_yes,fix_it_no
+020,"Candy box",30,fix_it,1131,fix_it_no,fix_it_no
+021,Folder,1,paper,823,chromo_glossy_300,chromo_glossy_300
+021,Folder,4,colors,1400,print_color_colorful,print_color_colorful
+021,Folder,6,lamination,842,lamination_1side_matte,lamination_1side_matte
+021,Folder,6,lamination,844,lamination_1side_glossy,lamination_1side_matte
+021,Folder,13,production_time,1134,industrial,industrial
+021,Folder,14,size,911,folder_460x320,folder_460x320
+021,Folder,25,folder_flap,905,folder_flap_one_left,folder_flap_one_left
+021,Folder,25,folder_flap,907,folder_flap_two,folder_flap_one_left
+021,Folder,26,card_slit,910,card_slit_yes,card_slit_yes
+021,Folder,30,fix_it,1131,fix_it_no,fix_it_no
+021,Folder,30,fix_it,1130,fix_it_yes,fix_it_no
+022,Flyer,1,paper,828,chromo_matte_135,chromo_matte_135
+022,Flyer,1,paper,829,chromo_glossy_135,chromo_matte_135
+022,Flyer,1,paper,826,chromo_matte_170,chromo_matte_135
+022,Flyer,1,paper,827,chromo_glossy_170,chromo_matte_135
+022,Flyer,1,paper,824,chromo_matte_220,chromo_matte_135
+022,Flyer,1,paper,825,chromo_glossy_220,chromo_matte_135
+022,Flyer,2,format,834,horizontal,vertical
+022,Flyer,2,format,835,vertical,vertical
+022,Flyer,4,colors,1400,print_color_colorful,print_color_colorful
+022,Flyer,6,lamination,933,lamination_no,lamination_no
+022,Flyer,6,lamination,843,lamination_2sides_matte,lamination_no
+022,Flyer,6,lamination,845,lamination_2sides_glossy,lamination_no
+022,Flyer,13,production_time,1134,industrial,budget
+022,Flyer,13,production_time,754,budget,budget
+022,Flyer,13,production_time,755,standard,budget
+022,Flyer,13,production_time,756,express,budget
+022,Flyer,14,size,981,a5_with_bleed,a5_with_bleed
+022,Flyer,14,size,982,a4_with_bleed,a5_with_bleed
+022,Flyer,30,fix_it,1131,fix_it_no,fix_it_no
+022,Flyer,30,fix_it,1130,fix_it_yes,fix_it_no
+022,Flyer,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+022,Flyer,33,printed_side,1399,printed_side_duplex,printed_side_simplex
+023,"Folded Flyer - 1 fold",1,paper,828,chromo_matte_135,chromo_matte_135
+023,"Folded Flyer - 1 fold",1,paper,829,chromo_glossy_135,chromo_matte_135
+023,"Folded Flyer - 1 fold",1,paper,826,chromo_matte_170,chromo_matte_135
+023,"Folded Flyer - 1 fold",1,paper,827,chromo_glossy_170,chromo_matte_135
+023,"Folded Flyer - 1 fold",1,paper,824,chromo_matte_220,chromo_matte_135
+023,"Folded Flyer - 1 fold",1,paper,825,chromo_glossy_220,chromo_matte_135
+023,"Folded Flyer - 1 fold",2,format,834,horizontal,horizontal
+023,"Folded Flyer - 1 fold",4,colors,1400,print_color_colorful,print_color_colorful
+023,"Folded Flyer - 1 fold",6,lamination,933,lamination_no,lamination_no
+023,"Folded Flyer - 1 fold",13,production_time,1134,industrial,budget
+023,"Folded Flyer - 1 fold",13,production_time,754,budget,budget
+023,"Folded Flyer - 1 fold",13,production_time,755,standard,budget
+023,"Folded Flyer - 1 fold",13,production_time,756,express,budget
+023,"Folded Flyer - 1 fold",14,size,916,a4_folded,a4_folded
+023,"Folded Flyer - 1 fold",14,size,917,a5_folded,a4_folded
+023,"Folded Flyer - 1 fold",30,fix_it,1131,fix_it_no,fix_it_no
+023,"Folded Flyer - 1 fold",30,fix_it,1130,fix_it_yes,fix_it_no
+024,"Folded Flyer - 2 folds",1,paper,828,chromo_matte_135,chromo_matte_135
+024,"Folded Flyer - 2 folds",1,paper,829,chromo_glossy_135,chromo_matte_135
+024,"Folded Flyer - 2 folds",1,paper,826,chromo_matte_170,chromo_matte_135
+024,"Folded Flyer - 2 folds",1,paper,827,chromo_glossy_170,chromo_matte_135
+024,"Folded Flyer - 2 folds",1,paper,824,chromo_matte_220,chromo_matte_135
+024,"Folded Flyer - 2 folds",1,paper,825,chromo_glossy_220,chromo_matte_135
+024,"Folded Flyer - 2 folds",2,format,834,horizontal,horizontal
+024,"Folded Flyer - 2 folds",4,colors,1400,print_color_colorful,print_color_colorful
+024,"Folded Flyer - 2 folds",6,lamination,933,lamination_no,lamination_no
+024,"Folded Flyer - 2 folds",13,production_time,1134,industrial,budget
+024,"Folded Flyer - 2 folds",13,production_time,754,budget,budget
+024,"Folded Flyer - 2 folds",13,production_time,755,standard,budget
+024,"Folded Flyer - 2 folds",13,production_time,756,express,budget
+024,"Folded Flyer - 2 folds",14,size,916,a4_folded,a4_folded
+024,"Folded Flyer - 2 folds",30,fix_it,1131,fix_it_no,fix_it_no
+024,"Folded Flyer - 2 folds",30,fix_it,1130,fix_it_yes,fix_it_no
+025,"Beer mat",4,colors,1400,print_color_colorful,print_color_colorful
+025,"Beer mat",13,production_time,754,budget,budget
+025,"Beer mat",13,production_time,1134,industrial,budget
+025,"Beer mat",14,size,918,beermat_square_9x9,beermat_square_9x9
+025,"Beer mat",14,size,919,beermat_circle_9,beermat_square_9x9
+025,"Beer mat",30,fix_it,1130,fix_it_yes,fix_it_no
+025,"Beer mat",30,fix_it,1131,fix_it_no,fix_it_no
+025,"Beer mat",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+025,"Beer mat",33,printed_side,1399,printed_side_duplex,printed_side_simplex
+026,"Door hanger",1,paper,822,chromo_matte_300,chromo_matte_220
+026,"Door hanger",1,paper,824,chromo_matte_220,chromo_matte_220
+026,"Door hanger",4,colors,1400,print_color_colorful,print_color_colorful
+026,"Door hanger",13,production_time,754,budget,budget
+026,"Door hanger",13,production_time,755,standard,budget
+026,"Door hanger",13,production_time,1134,industrial,budget
+026,"Door hanger",14,size,920,door_hanger_100x270,door_hanger_100x270
+026,"Door hanger",14,size,921,door_hanger_125x300,door_hanger_100x270
+026,"Door hanger",14,size,922,door_hanger_120x400,door_hanger_100x270
+026,"Door hanger",30,fix_it,1130,fix_it_yes,fix_it_no
+026,"Door hanger",30,fix_it,1131,fix_it_no,fix_it_no
+026,"Door hanger",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+026,"Door hanger",33,printed_side,1399,printed_side_duplex,printed_side_simplex
+027,Stickers,2,format,1580,roll_sticker_circle,roll_sticker_circle
+027,Stickers,2,format,1581,roll_sticker_rectangle,roll_sticker_circle
+027,Stickers,2,format,1582,roll_sticker_ellipse,roll_sticker_circle
+027,Stickers,2,format,1583,roll_sticker_square,roll_sticker_circle
+027,Stickers,2,format,1584,roll_sticker_hexagon,roll_sticker_circle
+027,Stickers,2,format,1585,roll_sticker_label,roll_sticker_circle
+027,Stickers,2,format,1608,star,roll_sticker_circle
+027,Stickers,4,colors,1400,print_color_colorful,print_color_colorful
+027,Stickers,13,production_time,1134,industrial,budget
+027,Stickers,13,production_time,754,budget,budget
+027,Stickers,13,production_time,755,standard,budget
+027,Stickers,14,size,1604,sticker_star_7x7,sticker_circle_3
+027,Stickers,14,size,924,sticker_circle_3,sticker_circle_3
+027,Stickers,14,size,1586,sticker_circle_4,sticker_circle_3
+027,Stickers,14,size,925,sticker_circle_5,sticker_circle_3
+027,Stickers,14,size,1587,sticker_circle_6,sticker_circle_3
+027,Stickers,14,size,1588,sticker_circle_7,sticker_circle_3
+027,Stickers,14,size,1589,sticker_circle_8,sticker_circle_3
+027,Stickers,14,size,1590,sticker_circle_9,sticker_circle_3
+027,Stickers,14,size,1591,sticker_circle_10,sticker_circle_3
+027,Stickers,14,size,1593,sticker_square_3,sticker_circle_3
+027,Stickers,14,size,1594,sticker_square_4,sticker_circle_3
+027,Stickers,14,size,926,sticker_square_5,sticker_circle_3
+027,Stickers,14,size,1595,sticker_square_6,sticker_circle_3
+027,Stickers,14,size,1596,sticker_square_7,sticker_circle_3
+027,Stickers,14,size,1597,sticker_square_8,sticker_circle_3
+027,Stickers,14,size,1598,sticker_square_9,sticker_circle_3
+027,Stickers,14,size,1599,sticker_square_10,sticker_circle_3
+027,Stickers,14,size,1345,sticker_rectangle_10x5,sticker_circle_3
+027,Stickers,14,size,1346,sticker_rectangle_16x6,sticker_circle_3
+027,Stickers,14,size,1347,sticker_rectangle_24x6,sticker_circle_3
+027,Stickers,14,size,1601,sticker_ellipse_6x3,sticker_circle_3
+027,Stickers,14,size,1602,sticker_ellipse_8x4,sticker_circle_3
+027,Stickers,14,size,1348,sticker_ellipse_10x5,sticker_circle_3
+027,Stickers,14,size,1605,sticker_label_5x3,sticker_circle_3
+027,Stickers,14,size,1350,sticker_label_7x5,sticker_circle_3
+027,Stickers,14,size,1351,sticker_star_5x5,sticker_circle_3
+027,Stickers,14,size,1349,sticker_hexagon_5x5,sticker_circle_3
+027,Stickers,14,size,1603,sticker_hexagon_7x7,sticker_circle_3
+027,Stickers,30,fix_it,1131,fix_it_no,fix_it_no
+027,Stickers,30,fix_it,1130,fix_it_yes,fix_it_no
+028,"Print on Canvas",2,format,834,horizontal,horizontal
+028,"Print on Canvas",2,format,835,vertical,horizontal
+028,"Print on Canvas",2,format,929,square,horizontal
+028,"Print on Canvas",4,colors,1400,print_color_colorful,print_color_colorful
+028,"Print on Canvas",13,production_time,1134,industrial,budget
+028,"Print on Canvas",13,production_time,754,budget,budget
+028,"Print on Canvas",13,production_time,755,standard,budget
+028,"Print on Canvas",13,production_time,756,express,budget
+028,"Print on Canvas",14,size,1352,canvas_20x30,canvas_20x30
+028,"Print on Canvas",14,size,1353,canvas_30x45,canvas_20x30
+028,"Print on Canvas",14,size,1355,canvas_50x70,canvas_20x30
+028,"Print on Canvas",14,size,1356,canvas_60x80,canvas_20x30
+028,"Print on Canvas",14,size,1357,canvas_70x100,canvas_20x30
+028,"Print on Canvas",14,size,1358,canvas_30x30,canvas_20x30
+028,"Print on Canvas",14,size,1359,canvas_40x40,canvas_20x30
+028,"Print on Canvas",30,fix_it,1131,fix_it_no,fix_it_no
+028,"Print on Canvas",30,fix_it,1130,fix_it_yes,fix_it_no
+029,Placemat,4,colors,1400,print_color_colorful,print_color_colorful
+029,Placemat,13,production_time,1134,industrial,budget
+029,Placemat,13,production_time,754,budget,budget
+029,Placemat,13,production_time,755,standard,budget
+029,Placemat,13,production_time,756,express,budget
+029,Placemat,14,size,945,a3_ver_with_bleed,a3_ver_with_bleed
+029,Placemat,30,fix_it,1131,fix_it_no,fix_it_no
+029,Placemat,30,fix_it,1130,fix_it_yes,fix_it_no
+029,Placemat,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+030,"Wall spiral calendar",1,paper,822,chromo_matte_300,chromo_matte_300
+030,"Wall spiral calendar",2,format,834,horizontal,horizontal
+030,"Wall spiral calendar",2,format,835,vertical,horizontal
+030,"Wall spiral calendar",3,pages,976,calendar_14,calendar_14
+030,"Wall spiral calendar",4,colors,1400,print_color_colorful,print_color_colorful
+030,"Wall spiral calendar",13,production_time,754,budget,budget
+030,"Wall spiral calendar",13,production_time,755,standard,budget
+030,"Wall spiral calendar",13,production_time,1134,industrial,budget
+030,"Wall spiral calendar",14,size,931,a4_hor_with_bleed,a4_hor_with_bleed
+030,"Wall spiral calendar",14,size,945,a3_ver_with_bleed,a4_hor_with_bleed
+030,"Wall spiral calendar",28,paper_inner_pages,958,paper_inner_pages_chromo_matte_220,paper_inner_pages_chromo_matte_220
+030,"Wall spiral calendar",30,fix_it,1130,fix_it_yes,fix_it_no
+030,"Wall spiral calendar",30,fix_it,1131,fix_it_no,fix_it_no
+031,"Bath towel",4,colors,1400,print_color_colorful,print_color_colorful
+031,"Bath towel",13,production_time,1134,industrial,industrial
+031,"Bath towel",14,size,962,towel_10x10,towel_10x10
+031,"Bath towel",15,product_color,799,towel_white,towel_white
+031,"Bath towel",15,product_color,801,towel_green,towel_white
+031,"Bath towel",15,product_color,963,towel_purple,towel_white
+031,"Bath towel",15,product_color,964,towel_orange,towel_white
+031,"Bath towel",15,product_color,965,towel_bordeaux,towel_white
+031,"Bath towel",15,product_color,966,towel_blue,towel_white
+031,"Bath towel",15,product_color,969,towel_azure,towel_white
+031,"Bath towel",30,fix_it,1131,fix_it_no,fix_it_no
+031,"Bath towel",30,fix_it,1130,fix_it_yes,fix_it_no
+032,"Poster calendar",1,paper,822,chromo_matte_300,chromo_matte_300
+032,"Poster calendar",2,format,835,vertical,vertical
+032,"Poster calendar",4,colors,1400,print_color_colorful,print_color_colorful
+032,"Poster calendar",6,lamination,842,lamination_1side_matte,lamination_1side_matte
+032,"Poster calendar",6,lamination,844,lamination_1side_glossy,lamination_1side_matte
+032,"Poster calendar",13,production_time,1134,industrial,budget
+032,"Poster calendar",13,production_time,754,budget,budget
+032,"Poster calendar",13,production_time,755,standard,budget
+032,"Poster calendar",13,production_time,756,express,budget
+032,"Poster calendar",14,size,945,a3_ver_with_bleed,a3_ver_with_bleed
+032,"Poster calendar",30,fix_it,1131,fix_it_no,fix_it_no
+032,"Poster calendar",30,fix_it,1130,fix_it_yes,fix_it_no
+033,"Desk calendar",1,paper,822,chromo_matte_300,chromo_matte_300
+033,"Desk calendar",3,pages,976,calendar_14,calendar_14
+033,"Desk calendar",4,colors,1400,print_color_colorful,print_color_colorful
+033,"Desk calendar",13,production_time,754,budget,budget
+033,"Desk calendar",13,production_time,755,standard,budget
+033,"Desk calendar",13,production_time,1134,industrial,budget
+033,"Desk calendar",14,size,932,a5_hor_with_bleed,a5_hor_with_bleed
+033,"Desk calendar",28,paper_inner_pages,958,paper_inner_pages_chromo_matte_220,paper_inner_pages_chromo_matte_220
+033,"Desk calendar",30,fix_it,1130,fix_it_yes,fix_it_no
+033,"Desk calendar",30,fix_it,1131,fix_it_no,fix_it_no
+034,Hat,4,colors,1400,print_color_colorful,print_color_colorful
+034,Hat,13,production_time,1134,industrial,industrial
+034,Hat,14,size,970,hat_8x8,hat_8x8
+034,Hat,15,product_color,971,hat_black,hat_black
+034,Hat,15,product_color,972,hat_white,hat_black
+034,Hat,15,product_color,973,hat_red,hat_black
+034,Hat,15,product_color,974,hat_blue,hat_black
+034,Hat,15,product_color,975,hat_olive,hat_black
+034,Hat,30,fix_it,1131,fix_it_no,fix_it_no
+034,Hat,30,fix_it,1130,fix_it_yes,fix_it_no
+035,"Work pants",4,colors,1400,print_color_colorful,print_color_colorful
+035,"Work pants",13,production_time,1134,industrial,industrial
+035,"Work pants",14,size,962,towel_10x10,towel_10x10
+035,"Work pants",15,product_color,977,work_pants_white,work_pants_white
+035,"Work pants",15,product_color,978,work_pants_beige,work_pants_white
+035,"Work pants",15,product_color,979,work_pants_blue,work_pants_white
+035,"Work pants",15,product_color,980,work_pants_black,work_pants_white
+035,"Work pants",23,clothing_size,869,size_s,size_s
+035,"Work pants",23,clothing_size,870,size_m,size_s
+035,"Work pants",23,clothing_size,871,size_l,size_s
+035,"Work pants",23,clothing_size,872,size_xl,size_s
+035,"Work pants",23,clothing_size,873,size_xxl,size_s
+035,"Work pants",30,fix_it,1131,fix_it_no,fix_it_no
+035,"Work pants",30,fix_it,1130,fix_it_yes,fix_it_no
+036,Banner,4,colors,1400,print_color_colorful,print_color_colorful
+036,Banner,13,production_time,1134,industrial,industrial
+036,Banner,14,size,983,banner_100x50,banner_100x50
+036,Banner,14,size,984,banner_150x100,banner_100x50
+036,Banner,14,size,986,banner_200x200,banner_100x50
+036,Banner,14,size,987,banner_300x50,banner_100x50
+036,Banner,14,size,988,banner_300x200,banner_100x50
+036,Banner,14,size,989,banner_400x300,banner_100x50
+036,Banner,30,fix_it,1131,fix_it_no,fix_it_no
+036,Banner,30,fix_it,1130,fix_it_yes,fix_it_no
+037,Magnet,2,format,1581,roll_sticker_rectangle,roll_sticker_rectangle
+037,Magnet,2,format,1583,roll_sticker_square,roll_sticker_rectangle
+037,Magnet,4,colors,1400,print_color_colorful,print_color_colorful
+037,Magnet,13,production_time,1134,industrial,industrial
+037,Magnet,14,size,995,magnet_5x5,magnet_5x5
+037,Magnet,14,size,1615,magnet_7x7,magnet_5x5
+037,Magnet,14,size,996,magnet_9x5,magnet_5x5
+037,Magnet,14,size,997,magnet_10x10,magnet_5x5
+037,Magnet,14,size,998,magnet_10x15,magnet_5x5
+037,Magnet,14,size,1616,magnet_15x15,magnet_5x5
+037,Magnet,14,size,1617,magnet_20x9,magnet_5x5
+037,Magnet,14,size,999,magnet_a5,magnet_5x5
+037,Magnet,14,size,1618,magnet_a4,magnet_5x5
+037,Magnet,30,fix_it,1131,fix_it_no,fix_it_no
+037,Magnet,30,fix_it,1130,fix_it_yes,fix_it_no
+038,"Dryfit shirt",2,format,765,front_small,front_small
+038,"Dryfit shirt",2,format,852,front_big,front_small
+038,"Dryfit shirt",2,format,853,front_small_back,front_small
+038,"Dryfit shirt",2,format,854,front_big_back,front_small
+038,"Dryfit shirt",2,format,855,back,front_small
+038,"Dryfit shirt",4,colors,794,print_color_black,print_color_black
+038,"Dryfit shirt",4,colors,796,print_color_white,print_color_black
+038,"Dryfit shirt",13,production_time,1134,industrial,industrial
+038,"Dryfit shirt",15,product_color,1009,dryfit_black,dryfit_black
+038,"Dryfit shirt",15,product_color,1010,dryfit_dark_blue,dryfit_black
+038,"Dryfit shirt",15,product_color,1011,dryfit_green,dryfit_black
+038,"Dryfit shirt",15,product_color,1012,dryfit_grey,dryfit_black
+038,"Dryfit shirt",15,product_color,1013,dryfit_pink,dryfit_black
+038,"Dryfit shirt",15,product_color,1014,dryfit_red,dryfit_black
+038,"Dryfit shirt",15,product_color,1015,dryfit_sky_blue,dryfit_black
+038,"Dryfit shirt",15,product_color,1016,dryfit_white,dryfit_black
+038,"Dryfit shirt",15,product_color,1017,dryfit_yellow,dryfit_black
+038,"Dryfit shirt",23,clothing_size,869,size_s,size_m
+038,"Dryfit shirt",23,clothing_size,870,size_m,size_m
+038,"Dryfit shirt",23,clothing_size,871,size_l,size_m
+038,"Dryfit shirt",23,clothing_size,872,size_xl,size_m
+038,"Dryfit shirt",23,clothing_size,874,size_xxxl,size_m
+038,"Dryfit shirt",30,fix_it,1131,fix_it_no,fix_it_no
+038,"Dryfit shirt",30,fix_it,1130,fix_it_yes,fix_it_no
+039,"Reusable bag",2,format,834,horizontal,horizontal
+039,"Reusable bag",4,colors,794,print_color_black,print_color_black
+039,"Reusable bag",4,colors,796,print_color_white,print_color_black
+039,"Reusable bag",13,production_time,1134,industrial,industrial
+039,"Reusable bag",14,size,817,a4,a4
+039,"Reusable bag",15,product_color,1018,reusable_bag_black,reusable_bag_black
+039,"Reusable bag",15,product_color,1019,reusable_bag_blue,reusable_bag_black
+039,"Reusable bag",15,product_color,1020,reusable_bag_green,reusable_bag_black
+039,"Reusable bag",15,product_color,1021,reusable_bag_orange,reusable_bag_black
+039,"Reusable bag",15,product_color,1022,reusable_bag_purple,reusable_bag_black
+039,"Reusable bag",15,product_color,1023,reusable_bag_red,reusable_bag_black
+039,"Reusable bag",15,product_color,1024,reusable_bag_white,reusable_bag_black
+039,"Reusable bag",30,fix_it,1131,fix_it_no,fix_it_no
+039,"Reusable bag",30,fix_it,1130,fix_it_yes,fix_it_no
+040,"Writing block",1,paper,820,woodfree_80,woodfree_80
+040,"Writing block",2,format,835,vertical,vertical
+040,"Writing block",4,colors,1400,print_color_colorful,print_color_colorful
+040,"Writing block",13,production_time,754,budget,budget
+040,"Writing block",13,production_time,1134,industrial,budget
+040,"Writing block",14,size,1064,block_size_a5_v,block_size_a5_v
+040,"Writing block",14,size,1065,block_size_a4_v,block_size_a5_v
+040,"Writing block",14,size,1325,block_size_a6_v,block_size_a5_v
+040,"Writing block",27,amount_in_block,913,amount_in_block_50,amount_in_block_50
+040,"Writing block",27,amount_in_block,914,amount_in_block_100,amount_in_block_50
+040,"Writing block",27,amount_in_block,915,amount_in_block_150,amount_in_block_50
+040,"Writing block",30,fix_it,1131,fix_it_no,fix_it_no
+040,"Writing block",30,fix_it,1130,fix_it_yes,fix_it_no
+041,"Notebook glue",1,paper,822,chromo_matte_300,chromo_matte_300
+041,"Notebook glue",1,paper,823,chromo_glossy_300,chromo_matte_300
+041,"Notebook glue",3,pages,1054,notebook_pages_40,notebook_pages_40
+041,"Notebook glue",3,pages,1056,notebook_pages_80,notebook_pages_40
+041,"Notebook glue",4,colors,1400,print_color_colorful,print_color_colorful
+041,"Notebook glue",5,pattern_inner_pages,1061,notebook_inner_blank,notebook_inner_lines
+041,"Notebook glue",5,pattern_inner_pages,1062,notebook_inner_lines,notebook_inner_lines
+041,"Notebook glue",5,pattern_inner_pages,1063,notebook_inner_grid,notebook_inner_lines
+041,"Notebook glue",6,lamination,842,lamination_1side_matte,lamination_1side_matte
+041,"Notebook glue",6,lamination,844,lamination_1side_glossy,lamination_1side_matte
+041,"Notebook glue",6,lamination,933,lamination_no,lamination_1side_matte
+041,"Notebook glue",13,production_time,754,budget,budget
+041,"Notebook glue",13,production_time,755,standard,budget
+041,"Notebook glue",13,production_time,1134,industrial,budget
+041,"Notebook glue",14,size,1048,notebook_glue_40_a5,notebook_glue_40_a5
+041,"Notebook glue",14,size,1049,notebook_glue_40_a4,notebook_glue_40_a5
+041,"Notebook glue",14,size,1050,notebook_glue_80_a5,notebook_glue_40_a5
+041,"Notebook glue",14,size,1051,notebook_glue_80_a4,notebook_glue_40_a5
+041,"Notebook glue",28,paper_inner_pages,950,paper_inner_pages_woodfree_80,paper_inner_pages_woodfree_80
+041,"Notebook glue",30,fix_it,1130,fix_it_yes,fix_it_no
+041,"Notebook glue",30,fix_it,1131,fix_it_no,fix_it_no
+042,"Notebook pin",1,paper,824,chromo_matte_220,chromo_matte_300
+042,"Notebook pin",1,paper,825,chromo_glossy_220,chromo_matte_300
+042,"Notebook pin",1,paper,822,chromo_matte_300,chromo_matte_300
+042,"Notebook pin",1,paper,823,chromo_glossy_300,chromo_matte_300
+042,"Notebook pin",3,pages,1054,notebook_pages_40,notebook_pages_40
+042,"Notebook pin",4,colors,1400,print_color_colorful,print_color_colorful
+042,"Notebook pin",5,pattern_inner_pages,1061,notebook_inner_blank,notebook_inner_lines
+042,"Notebook pin",5,pattern_inner_pages,1062,notebook_inner_lines,notebook_inner_lines
+042,"Notebook pin",5,pattern_inner_pages,1063,notebook_inner_grid,notebook_inner_lines
+042,"Notebook pin",6,lamination,933,lamination_no,lamination_1side_matte
+042,"Notebook pin",6,lamination,842,lamination_1side_matte,lamination_1side_matte
+042,"Notebook pin",6,lamination,844,lamination_1side_glossy,lamination_1side_matte
+042,"Notebook pin",13,production_time,754,budget,budget
+042,"Notebook pin",13,production_time,755,standard,budget
+042,"Notebook pin",13,production_time,1134,industrial,budget
+042,"Notebook pin",14,size,1046,notebook_pin_a5,notebook_pin_a5
+042,"Notebook pin",14,size,1047,notebook_pin_a4,notebook_pin_a5
+042,"Notebook pin",28,paper_inner_pages,950,paper_inner_pages_woodfree_80,paper_inner_pages_woodfree_80
+042,"Notebook pin",30,fix_it,1131,fix_it_no,fix_it_no
+042,"Notebook pin",30,fix_it,1130,fix_it_yes,fix_it_no
+043,"Notebook spiral",1,paper,822,chromo_matte_300,chromo_matte_300
+043,"Notebook spiral",1,paper,823,chromo_glossy_300,chromo_matte_300
+043,"Notebook spiral",3,pages,1057,notebook_spiral_pages_40,notebook_spiral_pages_40
+043,"Notebook spiral",3,pages,1058,notebook_spiral_pages_80,notebook_spiral_pages_40
+043,"Notebook spiral",4,colors,1400,print_color_colorful,print_color_colorful
+043,"Notebook spiral",5,pattern_inner_pages,1061,notebook_inner_blank,notebook_inner_lines
+043,"Notebook spiral",5,pattern_inner_pages,1062,notebook_inner_lines,notebook_inner_lines
+043,"Notebook spiral",5,pattern_inner_pages,1063,notebook_inner_grid,notebook_inner_lines
+043,"Notebook spiral",6,lamination,933,lamination_no,lamination_1side_matte
+043,"Notebook spiral",6,lamination,842,lamination_1side_matte,lamination_1side_matte
+043,"Notebook spiral",6,lamination,844,lamination_1side_glossy,lamination_1side_matte
+043,"Notebook spiral",13,production_time,1134,industrial,budget
+043,"Notebook spiral",13,production_time,754,budget,budget
+043,"Notebook spiral",13,production_time,755,standard,budget
+043,"Notebook spiral",13,production_time,756,express,budget
+043,"Notebook spiral",14,size,1052,notebook_spiral_a5,notebook_spiral_a5
+043,"Notebook spiral",14,size,1053,notebook_spiral_a4,notebook_spiral_a5
+043,"Notebook spiral",16,spiral,1059,notebook_spiral_right,notebook_spiral_right
+043,"Notebook spiral",16,spiral,1060,notebook_spiral_top,notebook_spiral_right
+043,"Notebook spiral",28,paper_inner_pages,950,paper_inner_pages_woodfree_80,paper_inner_pages_woodfree_80
+043,"Notebook spiral",30,fix_it,1131,fix_it_no,fix_it_no
+043,"Notebook spiral",30,fix_it,1130,fix_it_yes,fix_it_no
+044,"Nylon bag",4,colors,794,print_color_black,print_color_white
+044,"Nylon bag",4,colors,796,print_color_white,print_color_white
+044,"Nylon bag",13,production_time,754,budget,budget
+044,"Nylon bag",13,production_time,1134,industrial,budget
+044,"Nylon bag",14,size,1066,nylon_bag_20x18,nylon_bag_20x18
+044,"Nylon bag",15,product_color,1088,product_color_white,pen_lime
+044,"Nylon bag",15,product_color,866,pen_lime,pen_lime
+044,"Nylon bag",15,product_color,886,pen_black,pen_lime
+044,"Nylon bag",15,product_color,1017,dryfit_yellow,pen_lime
+044,"Nylon bag",15,product_color,1089,nylon_bag_azure,pen_lime
+044,"Nylon bag",15,product_color,1090,nylon_bag_dark_blue,pen_lime
+044,"Nylon bag",30,fix_it,1131,fix_it_no,fix_it_no
+044,"Nylon bag",30,fix_it,1130,fix_it_yes,fix_it_no
+045,Mug,4,colors,794,print_color_black,print_color_white
+045,Mug,4,colors,796,print_color_white,print_color_white
+045,Mug,13,production_time,754,budget,budget
+045,Mug,13,production_time,1134,industrial,budget
+045,Mug,14,size,1067,mug_5x5,mug_5x5
+045,Mug,15,product_color,1087,product_color_black,product_color_black
+045,Mug,15,product_color,1088,product_color_white,product_color_black
+045,Mug,15,product_color,1091,mug_blue,product_color_black
+045,Mug,15,product_color,1092,mug_green,product_color_black
+045,Mug,30,fix_it,1131,fix_it_no,fix_it_no
+045,Mug,30,fix_it,1130,fix_it_yes,fix_it_no
+046,"Neck pillow",4,colors,796,print_color_white,print_color_white
+046,"Neck pillow",13,production_time,754,budget,budget
+046,"Neck pillow",13,production_time,1134,industrial,budget
+046,"Neck pillow",14,size,1068,neck_pillow_8.5x4,neck_pillow_8.5x4
+046,"Neck pillow",30,fix_it,1130,fix_it_yes,fix_it_no
+046,"Neck pillow",30,fix_it,1131,fix_it_no,fix_it_no
+047,Headphones,4,colors,794,print_color_black,print_color_white
+047,Headphones,4,colors,796,print_color_white,print_color_white
+047,Headphones,13,production_time,754,budget,budget
+047,Headphones,13,production_time,1134,industrial,budget
+047,Headphones,14,size,1069,headphones_5x5,headphones_5x5
+047,Headphones,15,product_color,1087,product_color_black,pen_red
+047,Headphones,15,product_color,1088,product_color_white,pen_red
+047,Headphones,15,product_color,809,pen_red,pen_red
+047,Headphones,15,product_color,1093,headphones_blue,pen_red
+047,Headphones,30,fix_it,1131,fix_it_no,fix_it_no
+047,Headphones,30,fix_it,1130,fix_it_yes,fix_it_no
+048,"Cellphone sticky pocket",4,colors,794,print_color_black,print_color_white
+048,"Cellphone sticky pocket",4,colors,796,print_color_white,print_color_white
+048,"Cellphone sticky pocket",13,production_time,754,budget,budget
+048,"Cellphone sticky pocket",13,production_time,1134,industrial,budget
+048,"Cellphone sticky pocket",14,size,1070,cellphone_sticky_pocket_4x5,cellphone_sticky_pocket_4x5
+048,"Cellphone sticky pocket",15,product_color,797,shirt_dark_blue,shirt_dark_blue
+048,"Cellphone sticky pocket",15,product_color,1087,product_color_black,shirt_dark_blue
+048,"Cellphone sticky pocket",15,product_color,1088,product_color_white,shirt_dark_blue
+048,"Cellphone sticky pocket",30,fix_it,1130,fix_it_yes,fix_it_no
+048,"Cellphone sticky pocket",30,fix_it,1131,fix_it_no,fix_it_no
+049,"Metal pen",4,colors,794,print_color_black,print_color_white
+049,"Metal pen",4,colors,796,print_color_white,print_color_white
+049,"Metal pen",4,colors,795,print_color_silver,print_color_white
+049,"Metal pen",13,production_time,1134,industrial,budget
+049,"Metal pen",13,production_time,754,budget,budget
+049,"Metal pen",14,size,1071,metal_pen_4x0.8,metal_pen_4x0.8
+049,"Metal pen",15,product_color,1088,product_color_white,product_color_white
+049,"Metal pen",15,product_color,1113,metal_pen_dark_silver,product_color_white
+049,"Metal pen",15,product_color,1114,metal_pen_light_silver,product_color_white
+049,"Metal pen",15,product_color,1115,metal_pen_gold,product_color_white
+049,"Metal pen",15,product_color,1116,metal_pen_blue,product_color_white
+049,"Metal pen",30,fix_it,1131,fix_it_no,fix_it_no
+049,"Metal pen",30,fix_it,1130,fix_it_yes,fix_it_no
+050,"Decorated pen",4,colors,794,print_color_black,print_color_white
+050,"Decorated pen",4,colors,796,print_color_white,print_color_white
+050,"Decorated pen",4,colors,795,print_color_silver,print_color_white
+050,"Decorated pen",13,production_time,1134,industrial,budget
+050,"Decorated pen",13,production_time,754,budget,budget
+050,"Decorated pen",14,size,1072,decorated_pen_4x0.8,decorated_pen_4x0.8
+050,"Decorated pen",15,product_color,1088,product_color_white,decorated_pen_green
+050,"Decorated pen",15,product_color,1117,decorated_pen_green,decorated_pen_green
+050,"Decorated pen",15,product_color,1118,decorated_pen_blue,decorated_pen_green
+050,"Decorated pen",15,product_color,1119,decorated_pen_pink,decorated_pen_green
+050,"Decorated pen",15,product_color,1120,decorated_pen_red,decorated_pen_green
+050,"Decorated pen",15,product_color,1121,decorated_pen_dark_green,decorated_pen_green
+050,"Decorated pen",15,product_color,1122,decorated_pen_bordeaux,decorated_pen_green
+050,"Decorated pen",15,product_color,1123,decorated_pen_orange,decorated_pen_green
+050,"Decorated pen",15,product_color,1124,decorated_pen_purple,decorated_pen_green
+050,"Decorated pen",15,product_color,1125,decorated_pen_azure,decorated_pen_green
+050,"Decorated pen",15,product_color,1126,decorated_pen_emerald,decorated_pen_green
+050,"Decorated pen",15,product_color,1127,decorated_pen_light_orange,decorated_pen_green
+050,"Decorated pen",15,product_color,1128,decorated_pen_light_blue,decorated_pen_green
+050,"Decorated pen",30,fix_it,1131,fix_it_no,fix_it_no
+050,"Decorated pen",30,fix_it,1130,fix_it_yes,fix_it_no
+051,"Work tag",4,colors,794,print_color_black,print_color_black
+051,"Work tag",13,production_time,754,budget,budget
+051,"Work tag",13,production_time,1134,industrial,budget
+051,"Work tag",14,size,1073,work_tag_1.9x1.9,work_tag_1.9x1.9
+051,"Work tag",15,product_color,1088,product_color_white,candies_black
+051,"Work tag",15,product_color,895,candies_black,candies_black
+051,"Work tag",15,product_color,897,candies_orange,candies_black
+051,"Work tag",15,product_color,1094,work_tag_blue,candies_black
+051,"Work tag",15,product_color,1095,work_tag_green,candies_black
+051,"Work tag",15,product_color,1096,work_tag_purple,candies_black
+051,"Work tag",15,product_color,1097,work_tag_red,candies_black
+051,"Work tag",30,fix_it,1131,fix_it_no,fix_it_no
+051,"Work tag",30,fix_it,1130,fix_it_yes,fix_it_no
+052,Backpack,4,colors,794,print_color_black,print_color_white
+052,Backpack,4,colors,796,print_color_white,print_color_white
+052,Backpack,13,production_time,754,budget,budget
+052,Backpack,13,production_time,1134,industrial,budget
+052,Backpack,14,size,1074,backpack_9x10,backpack_9x10
+052,Backpack,15,product_color,1087,product_color_black,product_color_black
+052,Backpack,15,product_color,1099,backpack_blue,product_color_black
+052,Backpack,15,product_color,1100,backpack_green,product_color_black
+052,Backpack,15,product_color,1101,backpack_orange,product_color_black
+052,Backpack,30,fix_it,1131,fix_it_no,fix_it_no
+052,Backpack,30,fix_it,1130,fix_it_yes,fix_it_no
+053,"Notebook hardcover",4,colors,794,print_color_black,print_color_black
+053,"Notebook hardcover",4,colors,796,print_color_white,print_color_black
+053,"Notebook hardcover",4,colors,795,print_color_silver,print_color_black
+053,"Notebook hardcover",13,production_time,1134,industrial,budget
+053,"Notebook hardcover",13,production_time,754,budget,budget
+053,"Notebook hardcover",14,size,1075,notebook_hardcover_9.5x10,notebook_hardcover_9.5x10
+053,"Notebook hardcover",15,product_color,1087,product_color_black,candies_white
+053,"Notebook hardcover",15,product_color,901,candies_white,candies_white
+053,"Notebook hardcover",15,product_color,1102,notebook_hardcover_blue,candies_white
+053,"Notebook hardcover",30,fix_it,1131,fix_it_no,fix_it_no
+053,"Notebook hardcover",30,fix_it,1130,fix_it_yes,fix_it_no
+054,"Pocket mirror",4,colors,794,print_color_black,print_color_black
+054,"Pocket mirror",13,production_time,754,budget,budget
+054,"Pocket mirror",13,production_time,1134,industrial,budget
+054,"Pocket mirror",14,size,1076,pocket_mirror_4.5x4.5,pocket_mirror_4.5x4.5
+054,"Pocket mirror",15,product_color,1088,product_color_white,product_color_white
+054,"Pocket mirror",15,product_color,1098,pocket_mirror_silver,product_color_white
+054,"Pocket mirror",30,fix_it,1131,fix_it_no,fix_it_no
+054,"Pocket mirror",30,fix_it,1130,fix_it_yes,fix_it_no
+055,"Bottle opener",4,colors,796,print_color_white,print_color_white
+055,"Bottle opener",13,production_time,754,budget,budget
+055,"Bottle opener",13,production_time,1134,industrial,budget
+055,"Bottle opener",14,size,1077,bottle_opener_4x0.9,bottle_opener_4x0.9
+055,"Bottle opener",15,product_color,1087,product_color_black,product_color_black
+055,"Bottle opener",30,fix_it,1130,fix_it_yes,fix_it_no
+055,"Bottle opener",30,fix_it,1131,fix_it_no,fix_it_no
+056,"Sport towel",4,colors,794,print_color_black,print_color_black
+056,"Sport towel",13,production_time,754,budget,budget
+056,"Sport towel",13,production_time,1134,industrial,budget
+056,"Sport towel",14,size,1078,sport_towel_3x5,sport_towel_3x5
+056,"Sport towel",30,fix_it,1130,fix_it_yes,fix_it_no
+056,"Sport towel",30,fix_it,1131,fix_it_no,fix_it_no
+057,"Steel bottle",4,colors,796,print_color_white,print_color_white
+057,"Steel bottle",13,production_time,754,budget,budget
+057,"Steel bottle",13,production_time,1134,industrial,budget
+057,"Steel bottle",14,size,1079,steel_bottle_3x8,steel_bottle_3x8
+057,"Steel bottle",15,product_color,879,shirt_black,shirt_black
+057,"Steel bottle",15,product_color,1103,steel_bottle_blue,shirt_black
+057,"Steel bottle",15,product_color,1104,steel_bottle_red,shirt_black
+057,"Steel bottle",30,fix_it,1131,fix_it_no,fix_it_no
+057,"Steel bottle",30,fix_it,1130,fix_it_yes,fix_it_no
+058,"Plastic bottle",4,colors,796,print_color_white,print_color_white
+058,"Plastic bottle",13,production_time,754,budget,budget
+058,"Plastic bottle",13,production_time,1134,industrial,budget
+058,"Plastic bottle",14,size,1080,plastic_bottle_4x7,plastic_bottle_4x7
+058,"Plastic bottle",15,product_color,1105,plastic_bottle_red,plastic_bottle_red
+058,"Plastic bottle",15,product_color,1132,plastic_bottle_blue,plastic_bottle_red
+058,"Plastic bottle",30,fix_it,1130,fix_it_yes,fix_it_no
+058,"Plastic bottle",30,fix_it,1131,fix_it_no,fix_it_no
+059,"Plastic straw cup",4,colors,794,print_color_black,print_color_black
+059,"Plastic straw cup",13,production_time,754,budget,budget
+059,"Plastic straw cup",13,production_time,1134,industrial,budget
+059,"Plastic straw cup",14,size,1081,plastic_straw_cup_4x7,plastic_straw_cup_4x7
+059,"Plastic straw cup",15,product_color,1106,plastic_straw_cup_blue,plastic_straw_cup_blue
+059,"Plastic straw cup",15,product_color,1107,plastic_straw_cup_green,plastic_straw_cup_blue
+059,"Plastic straw cup",15,product_color,1108,plastic_straw_cup_orange,plastic_straw_cup_blue
+059,"Plastic straw cup",15,product_color,1109,plastic_straw_cup_transparent,plastic_straw_cup_blue
+059,"Plastic straw cup",30,fix_it,1131,fix_it_no,fix_it_no
+059,"Plastic straw cup",30,fix_it,1130,fix_it_yes,fix_it_no
+060,"Thermal mug",4,colors,794,print_color_black,print_color_white
+060,"Thermal mug",4,colors,796,print_color_white,print_color_white
+060,"Thermal mug",13,production_time,754,budget,budget
+060,"Thermal mug",13,production_time,1134,industrial,budget
+060,"Thermal mug",14,size,1082,thermal_mug_3.5x4,thermal_mug_3.5x4
+060,"Thermal mug",15,product_color,1087,product_color_black,product_color_black
+060,"Thermal mug",15,product_color,1088,product_color_white,product_color_black
+060,"Thermal mug",15,product_color,1110,thermal_mug_blue,product_color_black
+060,"Thermal mug",30,fix_it,1131,fix_it_no,fix_it_no
+060,"Thermal mug",30,fix_it,1130,fix_it_yes,fix_it_no
+061,"Reflective ruler",4,colors,794,print_color_black,print_color_black
+061,"Reflective ruler",13,production_time,754,budget,budget
+061,"Reflective ruler",13,production_time,1134,industrial,budget
+061,"Reflective ruler",14,size,1083,reflective_ruler_12x2,reflective_ruler_12x2
+061,"Reflective ruler",30,fix_it,1130,fix_it_yes,fix_it_no
+061,"Reflective ruler",30,fix_it,1131,fix_it_no,fix_it_no
+062,"Passport cover",4,colors,796,print_color_white,print_color_white
+062,"Passport cover",13,production_time,754,budget,budget
+062,"Passport cover",13,production_time,1134,industrial,budget
+062,"Passport cover",14,size,1084,passport_cover_5x8,passport_cover_5x8
+062,"Passport cover",15,product_color,798,shirt_red,shirt_red
+062,"Passport cover",15,product_color,808,pen_blue,shirt_red
+062,"Passport cover",15,product_color,1087,product_color_black,shirt_red
+062,"Passport cover",15,product_color,1111,passport_cover_silver,shirt_red
+062,"Passport cover",30,fix_it,1130,fix_it_yes,fix_it_no
+062,"Passport cover",30,fix_it,1131,fix_it_no,fix_it_no
+063,"Luggage tag",4,colors,796,print_color_white,print_color_white
+063,"Luggage tag",13,production_time,1134,industrial,budget
+063,"Luggage tag",13,production_time,754,budget,budget
+063,"Luggage tag",14,size,1085,luggage_tag_6x3,luggage_tag_6x3
+063,"Luggage tag",15,product_color,1087,product_color_black,product_color_black
+063,"Luggage tag",15,product_color,798,shirt_red,product_color_black
+063,"Luggage tag",15,product_color,900,candies_silver,product_color_black
+063,"Luggage tag",15,product_color,1112,luggage_tag_blue,product_color_black
+063,"Luggage tag",30,fix_it,1131,fix_it_no,fix_it_no
+063,"Luggage tag",30,fix_it,1130,fix_it_yes,fix_it_no
+064,"USB stick",4,colors,794,print_color_black,print_color_black
+064,"USB stick",13,production_time,754,budget,budget
+064,"USB stick",13,production_time,1134,industrial,budget
+064,"USB stick",14,size,1521,usb_stick_25x11,usb_stick_25x11
+064,"USB stick",30,fix_it,1131,fix_it_no,fix_it_no
+064,"USB stick",30,fix_it,1130,fix_it_yes,fix_it_no
+065,"paper cup",4,colors,1400,print_color_colorful,print_color_colorful
+065,"paper cup",13,production_time,1134,industrial,industrial
+065,"paper cup",13,production_time,1548,vocational,industrial
+065,"paper cup",14,size,1217,paper_cup_20.5x9.3,paper_cup_20.5x9.3
+065,"paper cup",30,fix_it,1131,fix_it_no,fix_it_no
+065,"paper cup",30,fix_it,1130,fix_it_yes,fix_it_no
+065,"paper cup",31,cup_lid,1214,cup_lid_no,cup_lid_no
+065,"paper cup",31,cup_lid,1215,cup_lid_black,cup_lid_no
+065,"paper cup",31,cup_lid,1216,cup_lid_white,cup_lid_no
+066,"tank shirt",2,format,765,front_small,front_small
+066,"tank shirt",2,format,852,front_big,front_small
+066,"tank shirt",2,format,853,front_small_back,front_small
+066,"tank shirt",2,format,854,front_big_back,front_small
+066,"tank shirt",2,format,855,back,front_small
+066,"tank shirt",4,colors,794,print_color_black,print_color_black
+066,"tank shirt",4,colors,796,print_color_white,print_color_black
+066,"tank shirt",13,production_time,1134,industrial,industrial
+066,"tank shirt",15,product_color,1138,tank_shirt_white,tank_shirt_black
+066,"tank shirt",15,product_color,1139,tank_shirt_grey,tank_shirt_black
+066,"tank shirt",15,product_color,1140,tank_shirt_red,tank_shirt_black
+066,"tank shirt",15,product_color,1141,tank_shirt_pink,tank_shirt_black
+066,"tank shirt",15,product_color,1142,tank_shirt_blue,tank_shirt_black
+066,"tank shirt",15,product_color,1143,tank_shirt_bourdeaux,tank_shirt_black
+066,"tank shirt",15,product_color,1144,tank_shirt_green,tank_shirt_black
+066,"tank shirt",15,product_color,1145,tank_shirt_dark_green,tank_shirt_black
+066,"tank shirt",15,product_color,1146,tank_shirt_black,tank_shirt_black
+066,"tank shirt",15,product_color,1147,tank_shirt_light_blue,tank_shirt_black
+066,"tank shirt",15,product_color,1148,tank_shirt_dark_blue,tank_shirt_black
+066,"tank shirt",15,product_color,1149,tank_shirt_dark_pink,tank_shirt_black
+066,"tank shirt",15,product_color,1150,tank_shirt_yellow,tank_shirt_black
+066,"tank shirt",23,clothing_size,869,size_s,size_m
+066,"tank shirt",23,clothing_size,870,size_m,size_m
+066,"tank shirt",23,clothing_size,871,size_l,size_m
+066,"tank shirt",23,clothing_size,872,size_xl,size_m
+066,"tank shirt",30,fix_it,1131,fix_it_no,fix_it_no
+066,"tank shirt",30,fix_it,1130,fix_it_yes,fix_it_no
+067,"american shirt",2,format,765,front_small,front_small
+067,"american shirt",2,format,852,front_big,front_small
+067,"american shirt",2,format,853,front_small_back,front_small
+067,"american shirt",2,format,854,front_big_back,front_small
+067,"american shirt",2,format,855,back,front_small
+067,"american shirt",4,colors,794,print_color_black,print_color_black
+067,"american shirt",13,production_time,1134,industrial,industrial
+067,"american shirt",15,product_color,1257,american_shirt_bourdeaux,american_shirt_bourdeaux
+067,"american shirt",15,product_color,1264,american_shirt_black,american_shirt_bourdeaux
+067,"american shirt",15,product_color,1265,american_shirt_dark_blue,american_shirt_bourdeaux
+067,"american shirt",23,clothing_size,870,size_m,size_m
+067,"american shirt",23,clothing_size,871,size_l,size_m
+067,"american shirt",23,clothing_size,872,size_xl,size_m
+067,"american shirt",23,clothing_size,873,size_xxl,size_m
+067,"american shirt",30,fix_it,1131,fix_it_no,fix_it_no
+067,"american shirt",30,fix_it,1130,fix_it_yes,fix_it_no
+068,"polo shirt",2,format,765,front_small,front_small
+068,"polo shirt",2,format,853,front_small_back,front_small
+068,"polo shirt",2,format,855,back,front_small
+068,"polo shirt",4,colors,794,print_color_black,print_color_black
+068,"polo shirt",4,colors,796,print_color_white,print_color_black
+068,"polo shirt",13,production_time,1134,industrial,industrial
+068,"polo shirt",15,product_color,1266,polo_shirt_black,polo_shirt_black
+068,"polo shirt",15,product_color,1267,polo_shirt_white,polo_shirt_black
+068,"polo shirt",15,product_color,1320,polo_shirt_blue,polo_shirt_black
+068,"polo shirt",23,clothing_size,869,size_s,size_s
+068,"polo shirt",23,clothing_size,870,size_m,size_s
+068,"polo shirt",23,clothing_size,871,size_l,size_s
+068,"polo shirt",23,clothing_size,872,size_xl,size_s
+068,"polo shirt",23,clothing_size,873,size_xxl,size_s
+068,"polo shirt",30,fix_it,1131,fix_it_no,fix_it_no
+068,"polo shirt",30,fix_it,1130,fix_it_yes,fix_it_no
+069,"kids shirt",2,format,765,front_small,front_small
+069,"kids shirt",2,format,852,front_big,front_small
+069,"kids shirt",2,format,853,front_small_back,front_small
+069,"kids shirt",2,format,854,front_big_back,front_small
+069,"kids shirt",2,format,855,back,front_small
+069,"kids shirt",4,colors,794,print_color_black,print_color_black
+069,"kids shirt",4,colors,796,print_color_white,print_color_black
+069,"kids shirt",13,production_time,1134,industrial,industrial
+069,"kids shirt",15,product_color,1278,kids_shirt_black,kids_shirt_black
+069,"kids shirt",15,product_color,1279,kids_shirt_green,kids_shirt_black
+069,"kids shirt",15,product_color,1280,kids_shirt_blue,kids_shirt_black
+069,"kids shirt",15,product_color,1281,kids_shirt_red,kids_shirt_black
+069,"kids shirt",15,product_color,1284,kids_shirt_pink,kids_shirt_black
+069,"kids shirt",15,product_color,1285,kids_shirt_white,kids_shirt_black
+069,"kids shirt",15,product_color,1286,kids_shirt_purple,kids_shirt_black
+069,"kids shirt",23,clothing_size,1272,size_6,size_6
+069,"kids shirt",23,clothing_size,1273,size_8,size_6
+069,"kids shirt",23,clothing_size,1274,size_10,size_6
+069,"kids shirt",23,clothing_size,1275,size_12,size_6
+069,"kids shirt",23,clothing_size,1276,size_14,size_6
+069,"kids shirt",23,clothing_size,1277,size_16,size_6
+069,"kids shirt",30,fix_it,1131,fix_it_no,fix_it_no
+069,"kids shirt",30,fix_it,1130,fix_it_yes,fix_it_no
+070,"baseball cap",4,colors,1400,print_color_colorful,print_color_colorful
+070,"baseball cap",13,production_time,1134,industrial,industrial
+070,"baseball cap",14,size,1287,baseball_cap_110x55,baseball_cap_110x55
+070,"baseball cap",15,product_color,1288,baseball_cap_green,baseball_cap_green
+070,"baseball cap",15,product_color,1289,baseball_cap_black,baseball_cap_green
+070,"baseball cap",15,product_color,1290,baseball_cap_blue,baseball_cap_green
+070,"baseball cap",15,product_color,1291,baseball_cap_dark_blue,baseball_cap_green
+070,"baseball cap",15,product_color,1292,baseball_cap_purple,baseball_cap_green
+070,"baseball cap",15,product_color,1293,baseball_cap_red,baseball_cap_green
+070,"baseball cap",15,product_color,1294,baseball_cap_yellow,baseball_cap_green
+070,"baseball cap",15,product_color,1296,baseball_cap_orange,baseball_cap_green
+070,"baseball cap",30,fix_it,1131,fix_it_no,fix_it_no
+070,"baseball cap",30,fix_it,1130,fix_it_yes,fix_it_no
+071,"trucker cap",4,colors,1400,print_color_colorful,print_color_colorful
+071,"trucker cap",13,production_time,1134,industrial,industrial
+071,"trucker cap",14,size,1297,trucker_cap_110x70,trucker_cap_110x70
+071,"trucker cap",15,product_color,1298,trucker_cap_pink,trucker_cap_pink
+071,"trucker cap",15,product_color,1299,trucker_cap_blue,trucker_cap_pink
+071,"trucker cap",15,product_color,1300,trucker_cap_yellow,trucker_cap_pink
+071,"trucker cap",15,product_color,1301,trucker_cap_black,trucker_cap_pink
+071,"trucker cap",15,product_color,1302,trucker_cap_dark_blue,trucker_cap_pink
+071,"trucker cap",15,product_color,1303,trucker_cap_red,trucker_cap_pink
+071,"trucker cap",15,product_color,1304,trucker_cap_purple,trucker_cap_pink
+071,"trucker cap",15,product_color,1305,trucker_cap_orange,trucker_cap_pink
+071,"trucker cap",15,product_color,1306,trucker_cap_radiance_green,trucker_cap_pink
+071,"trucker cap",15,product_color,1307,trucker_cap_light_blue,trucker_cap_pink
+071,"trucker cap",30,fix_it,1131,fix_it_no,fix_it_no
+071,"trucker cap",30,fix_it,1130,fix_it_yes,fix_it_no
+072,"reflective vest",2,format,765,front_small,front_small
+072,"reflective vest",2,format,853,front_small_back,front_small
+072,"reflective vest",4,colors,794,print_color_black,print_color_black
+072,"reflective vest",4,colors,796,print_color_white,print_color_black
+072,"reflective vest",13,production_time,1134,industrial,industrial
+072,"reflective vest",15,product_color,1310,reflective_vest_orange,reflective_vest_orange
+072,"reflective vest",30,fix_it,1131,fix_it_no,fix_it_no
+072,"reflective vest",30,fix_it,1130,fix_it_yes,fix_it_no
+072,"reflective vest",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+072,"reflective vest",33,printed_side,1399,printed_side_duplex,printed_side_simplex
+073,"bucket hat",4,colors,1400,print_color_colorful,print_color_colorful
+073,"bucket hat",13,production_time,1134,industrial,industrial
+073,"bucket hat",14,size,1311,bucket_hat_80x50,bucket_hat_80x50
+073,"bucket hat",15,product_color,1312,bucket_hat_beige,bucket_hat_beige
+073,"bucket hat",15,product_color,1313,bucket_hat_dark_blue,bucket_hat_beige
+073,"bucket hat",15,product_color,1314,bucket_hat_olive_green,bucket_hat_beige
+073,"bucket hat",15,product_color,1315,bucket_hat_red,bucket_hat_beige
+073,"bucket hat",15,product_color,1316,bucket_hat_black,bucket_hat_beige
+073,"bucket hat",15,product_color,1317,bucket_hat_white,bucket_hat_beige
+073,"bucket hat",15,product_color,1322,bucket_hat_light_blue,bucket_hat_beige
+073,"bucket hat",15,product_color,1323,bucket_hat_green,bucket_hat_beige
+073,"bucket hat",30,fix_it,1131,fix_it_no,fix_it_no
+073,"bucket hat",30,fix_it,1130,fix_it_yes,fix_it_no
+074,"beach towel",4,colors,794,print_color_black,print_color_black
+074,"beach towel",13,production_time,1134,industrial,industrial
+074,"beach towel",14,size,1151,beach_towel_6x6,beach_towel_6x6
+074,"beach towel",15,product_color,1152,beach_towel_orange,beach_towel_orange
+074,"beach towel",15,product_color,1153,beach_towel_blue,beach_towel_orange
+074,"beach towel",15,product_color,1154,beach_towel_green,beach_towel_orange
+074,"beach towel",30,fix_it,1131,fix_it_no,fix_it_no
+074,"beach towel",30,fix_it,1130,fix_it_yes,fix_it_no
+075,"hand fan",4,colors,794,print_color_black,print_color_black
+075,"hand fan",13,production_time,754,budget,budget
+075,"hand fan",13,production_time,1134,industrial,budget
+075,"hand fan",14,size,1160,hand_fan_9x1.3,hand_fan_9x1.3
+075,"hand fan",15,product_color,1161,hand_fan_white,hand_fan_white
+075,"hand fan",30,fix_it,1130,fix_it_yes,fix_it_no
+075,"hand fan",30,fix_it,1131,fix_it_no,fix_it_no
+076,Matkot,4,colors,794,print_color_black,print_color_black
+076,Matkot,13,production_time,1134,industrial,industrial
+076,Matkot,14,size,1202,matkot_circle_13x13,matkot_circle_13x13
+076,Matkot,15,product_color,1171,Matkot_blue,Matkot_blue
+076,Matkot,30,fix_it,1131,fix_it_no,fix_it_no
+076,Matkot,30,fix_it,1130,fix_it_yes,fix_it_no
+077,"beach tent",4,colors,794,print_color_black,print_color_black
+077,"beach tent",4,colors,796,print_color_white,print_color_black
+077,"beach tent",13,production_time,754,budget,budget
+077,"beach tent",13,production_time,1134,industrial,budget
+077,"beach tent",14,size,1203,beach_tent,beach_tent
+077,"beach tent",15,product_color,1172,beach_tent_light_blue,beach_tent_light_blue
+077,"beach tent",15,product_color,1173,beach_tent_turquoise,beach_tent_light_blue
+077,"beach tent",30,fix_it,1130,fix_it_yes,fix_it_no
+077,"beach tent",30,fix_it,1131,fix_it_no,fix_it_no
+078,frisbee,4,colors,794,print_color_black,print_color_black
+078,frisbee,4,colors,796,print_color_white,print_color_black
+078,frisbee,13,production_time,754,budget,budget
+078,frisbee,13,production_time,1134,industrial,budget
+078,frisbee,14,size,1157,frisbee_circle_10x10,frisbee_circle_10x10
+078,frisbee,15,product_color,1158,frisbee_white,frisbee_white
+078,frisbee,15,product_color,1159,frisbee_blue,frisbee_white
+078,frisbee,30,fix_it,1131,fix_it_no,fix_it_no
+078,frisbee,30,fix_it,1130,fix_it_yes,fix_it_no
+079,"silicon ring bottle",4,colors,794,print_color_black,print_color_black
+079,"silicon ring bottle",13,production_time,1134,industrial,budget
+079,"silicon ring bottle",13,production_time,754,budget,budget
+079,"silicon ring bottle",14,size,1204,silicon_ring_bottle_5x4,silicon_ring_bottle_5x4
+079,"silicon ring bottle",15,product_color,1174,silicon_ring_bottle_blue,silicon_ring_bottle_blue
+079,"silicon ring bottle",15,product_color,1175,silicon_ring_bottle_white,silicon_ring_bottle_blue
+079,"silicon ring bottle",15,product_color,1176,silicon_ring_bottle_orange,silicon_ring_bottle_blue
+079,"silicon ring bottle",15,product_color,1177,silicon_ring_bottle_green,silicon_ring_bottle_blue
+079,"silicon ring bottle",15,product_color,1631,silicon_ring_bottle_red,silicon_ring_bottle_blue
+079,"silicon ring bottle",15,product_color,1632,silicon_ring_bottle_purple,silicon_ring_bottle_blue
+079,"silicon ring bottle",30,fix_it,1131,fix_it_no,fix_it_no
+079,"silicon ring bottle",30,fix_it,1130,fix_it_yes,fix_it_no
+080,"plastic bubble cup",4,colors,794,print_color_black,print_color_black
+080,"plastic bubble cup",4,colors,796,print_color_white,print_color_black
+080,"plastic bubble cup",13,production_time,1134,industrial,budget
+080,"plastic bubble cup",13,production_time,754,budget,budget
+080,"plastic bubble cup",14,size,1205,plastic_bubble_cup_10x5,plastic_bubble_cup_10x5
+080,"plastic bubble cup",15,product_color,1178,plastic_bubble_cup_sky_blue,plastic_bubble_cup_sky_blue
+080,"plastic bubble cup",15,product_color,1179,plastic_bubble_cup_pink,plastic_bubble_cup_sky_blue
+080,"plastic bubble cup",15,product_color,1180,plastic_bubble_cup_orange,plastic_bubble_cup_sky_blue
+080,"plastic bubble cup",30,fix_it,1131,fix_it_no,fix_it_no
+080,"plastic bubble cup",30,fix_it,1130,fix_it_yes,fix_it_no
+081,"led desk lamp",4,colors,794,print_color_black,print_color_black
+081,"led desk lamp",4,colors,795,print_color_silver,print_color_black
+081,"led desk lamp",13,production_time,754,budget,budget
+081,"led desk lamp",13,production_time,1134,industrial,budget
+081,"led desk lamp",14,size,1155,led_desk_lamp_6x3,led_desk_lamp_6x3
+081,"led desk lamp",15,product_color,1156,led_desk_lamp_white,led_desk_lamp_white
+081,"led desk lamp",30,fix_it,1130,fix_it_yes,fix_it_no
+081,"led desk lamp",30,fix_it,1131,fix_it_no,fix_it_no
+082,"cellphone battery",4,colors,794,print_color_black,print_color_black
+082,"cellphone battery",4,colors,796,print_color_white,print_color_black
+082,"cellphone battery",13,production_time,754,budget,budget
+082,"cellphone battery",13,production_time,1134,industrial,budget
+082,"cellphone battery",14,size,1206,cellphone_battery,cellphone_battery
+082,"cellphone battery",15,product_color,1181,cellphone_battery_blue,cellphone_battery_blue
+082,"cellphone battery",15,product_color,1182,cellphone_battery_silver,cellphone_battery_blue
+082,"cellphone battery",30,fix_it,1130,fix_it_yes,fix_it_no
+082,"cellphone battery",30,fix_it,1131,fix_it_no,fix_it_no
+083,"neck fan",4,colors,794,print_color_black,print_color_black
+083,"neck fan",4,colors,796,print_color_white,print_color_black
+083,"neck fan",13,production_time,754,budget,budget
+083,"neck fan",13,production_time,1134,industrial,budget
+083,"neck fan",14,size,1207,neck_fan,neck_fan
+083,"neck fan",15,product_color,1163,neck_fan_white,neck_fan_white
+083,"neck fan",15,product_color,1168,neck_fan_blue,neck_fan_white
+083,"neck fan",15,product_color,1169,neck_fan_red,neck_fan_white
+083,"neck fan",15,product_color,1170,neck_fan_yellow,neck_fan_white
+083,"neck fan",30,fix_it,1130,fix_it_yes,fix_it_no
+083,"neck fan",30,fix_it,1131,fix_it_no,fix_it_no
+084,"personal cooler",4,colors,794,print_color_black,print_color_black
+084,"personal cooler",4,colors,796,print_color_white,print_color_black
+084,"personal cooler",13,production_time,754,budget,budget
+084,"personal cooler",13,production_time,1134,industrial,budget
+084,"personal cooler",14,size,1208,personal_cooler_40x65,personal_cooler_40x65
+084,"personal cooler",15,product_color,1183,personal_cooler_blue,personal_cooler_orange
+084,"personal cooler",15,product_color,1184,personal_cooler_green,personal_cooler_orange
+084,"personal cooler",15,product_color,1185,personal_cooler_orange,personal_cooler_orange
+084,"personal cooler",30,fix_it,1130,fix_it_yes,fix_it_no
+084,"personal cooler",30,fix_it,1131,fix_it_no,fix_it_no
+085,"bath speaker",4,colors,794,print_color_black,print_color_black
+085,"bath speaker",4,colors,796,print_color_white,print_color_black
+085,"bath speaker",13,production_time,754,budget,budget
+085,"bath speaker",13,production_time,1134,industrial,budget
+085,"bath speaker",14,size,1209,bath_speaker_13x20,bath_speaker_13x20
+085,"bath speaker",15,product_color,1186,bath_speaker_blue,bath_speaker_blue
+085,"bath speaker",15,product_color,1187,bath_speaker_white,bath_speaker_blue
+085,"bath speaker",30,fix_it,1130,fix_it_yes,fix_it_no
+085,"bath speaker",30,fix_it,1131,fix_it_no,fix_it_no
+086,"keychain led light",4,colors,796,print_color_white,print_color_white
+086,"keychain led light",13,production_time,754,budget,budget
+086,"keychain led light",13,production_time,1134,industrial,budget
+086,"keychain led light",14,size,1210,keychain_led_light_15x45,keychain_led_light_15x45
+086,"keychain led light",15,product_color,809,pen_red,pen_red
+086,"keychain led light",15,product_color,864,pen_purple,pen_red
+086,"keychain led light",15,product_color,900,candies_silver,pen_red
+086,"keychain led light",15,product_color,1188,keychain_led_light_blue,pen_red
+086,"keychain led light",15,product_color,1189,keychain_led_light_black,pen_red
+086,"keychain led light",30,fix_it,1130,fix_it_yes,fix_it_no
+086,"keychain led light",30,fix_it,1131,fix_it_no,fix_it_no
+087,"large backpack",4,colors,796,print_color_white,print_color_white
+087,"large backpack",13,production_time,754,budget,budget
+087,"large backpack",13,production_time,1134,industrial,budget
+087,"large backpack",14,size,1164,large_backpack_15x8,large_backpack_15x8
+087,"large backpack",15,product_color,1165,large_backpack_black,large_backpack_black
+087,"large backpack",15,product_color,1166,large_backpack_blue,large_backpack_black
+087,"large backpack",15,product_color,1167,large_backpack_dark_blue,large_backpack_black
+087,"large backpack",30,fix_it,1130,fix_it_yes,fix_it_no
+087,"large backpack",30,fix_it,1131,fix_it_no,fix_it_no
+088,"memo holder",4,colors,796,print_color_white,print_color_white
+088,"memo holder",4,colors,795,print_color_silver,print_color_white
+088,"memo holder",13,production_time,754,budget,budget
+088,"memo holder",13,production_time,1134,industrial,budget
+088,"memo holder",14,size,1211,memo_holder_35x70,memo_holder_35x70
+088,"memo holder",15,product_color,881,shirt_grey,shirt_grey
+088,"memo holder",15,product_color,1190,memo_holder_blue,shirt_grey
+088,"memo holder",15,product_color,1191,memo_holder_black,shirt_grey
+088,"memo holder",30,fix_it,1131,fix_it_no,fix_it_no
+088,"memo holder",30,fix_it,1130,fix_it_yes,fix_it_no
+089,"velvet pen",4,colors,794,print_color_black,print_color_white
+089,"velvet pen",4,colors,796,print_color_white,print_color_white
+089,"velvet pen",4,colors,795,print_color_silver,print_color_white
+089,"velvet pen",13,production_time,1134,industrial,budget
+089,"velvet pen",13,production_time,754,budget,budget
+089,"velvet pen",14,size,1212,velvet_pen_8x40,velvet_pen_8x40
+089,"velvet pen",15,product_color,865,pen_sky_blue,pen_sky_blue
+089,"velvet pen",15,product_color,1192,velvet_pen_blue,pen_sky_blue
+089,"velvet pen",15,product_color,1193,velvet_pen_black,pen_sky_blue
+089,"velvet pen",15,product_color,1194,velvet_pen_silver,pen_sky_blue
+089,"velvet pen",15,product_color,1195,velvet_pen_red,pen_sky_blue
+089,"velvet pen",15,product_color,1196,velvet_pen_pink,pen_sky_blue
+089,"velvet pen",15,product_color,1197,velvet_pen_yellow,pen_sky_blue
+089,"velvet pen",15,product_color,1198,velvet_pen_purple,pen_sky_blue
+089,"velvet pen",15,product_color,1199,velvet_pen_orange,pen_sky_blue
+089,"velvet pen",30,fix_it,1131,fix_it_no,fix_it_no
+089,"velvet pen",30,fix_it,1130,fix_it_yes,fix_it_no
+090,"shape cut",4,colors,1400,print_color_colorful,print_color_colorful
+090,"shape cut",13,production_time,754,budget,budget
+090,"shape cut",13,production_time,1134,industrial,budget
+090,"shape cut",14,size,1336,shape_cut_5x5,shape_cut_5x5
+090,"shape cut",14,size,1337,shape_cut_10x10,shape_cut_5x5
+090,"shape cut",14,size,1338,shape_cut_15x15,shape_cut_5x5
+090,"shape cut",30,fix_it,1130,fix_it_yes,fix_it_no
+090,"shape cut",30,fix_it,1131,fix_it_no,fix_it_no
+091,"plotter cutting",4,colors,1400,print_color_colorful,print_color_colorful
+091,"plotter cutting",13,production_time,754,budget,budget
+091,"plotter cutting",13,production_time,1134,industrial,budget
+091,"plotter cutting",14,size,1339,plotter_cutting_55x100,plotter_cutting_a4
+091,"plotter cutting",14,size,1340,plotter_cutting_a3,plotter_cutting_a4
+091,"plotter cutting",14,size,1341,plotter_cutting_a4,plotter_cutting_a4
+091,"plotter cutting",30,fix_it,1130,fix_it_yes,fix_it_no
+091,"plotter cutting",30,fix_it,1131,fix_it_no,fix_it_no
+092,"vinyl letters",4,colors,1400,print_color_colorful,print_color_colorful
+092,"vinyl letters",13,production_time,754,budget,budget
+092,"vinyl letters",13,production_time,1134,industrial,budget
+092,"vinyl letters",14,size,1342,vinyl_letters_a3,vinyl_letters_a4
+092,"vinyl letters",14,size,1343,vinyl_letters_a4,vinyl_letters_a4
+092,"vinyl letters",30,fix_it,1130,fix_it_yes,fix_it_no
+092,"vinyl letters",30,fix_it,1131,fix_it_no,fix_it_no
+093,"car sticker",4,colors,1400,print_color_colorful,print_color_colorful
+093,"car sticker",13,production_time,1134,industrial,industrial
+093,"car sticker",14,size,1619,car_sticker_a4,car_sticker_a3
+093,"car sticker",14,size,1344,car_sticker_a3,car_sticker_a3
+093,"car sticker",15,product_color,799,towel_white,towel_white
+093,"car sticker",15,product_color,1460,car_sticker_a3_clear,towel_white
+093,"car sticker",30,fix_it,1131,fix_it_no,fix_it_no
+093,"car sticker",30,fix_it,1130,fix_it_yes,fix_it_no
+094,"scodix business card",1,paper,1333,chromo_matte_350,chromo_matte_350
+094,"scodix business card",2,format,834,horizontal,horizontal
+094,"scodix business card",2,format,835,vertical,horizontal
+094,"scodix business card",2,format,929,square,horizontal
+094,"scodix business card",4,colors,1400,print_color_colorful,print_color_colorful
+094,"scodix business card",6,lamination,843,lamination_2sides_matte,lamination_2sides_matte
+094,"scodix business card",13,production_time,754,budget,budget
+094,"scodix business card",13,production_time,1134,industrial,budget
+094,"scodix business card",14,size,836,business_card_85x55,business_card_90x50
+094,"scodix business card",14,size,837,business_card_90x50,business_card_90x50
+094,"scodix business card",14,size,990,business_card_65x65,business_card_90x50
+094,"scodix business card",30,fix_it,1130,fix_it_yes,fix_it_no
+094,"scodix business card",30,fix_it,1131,fix_it_no,fix_it_no
+094,"scodix business card",32,scodix,1330,scodix_gloss,scodix_gloss
+094,"scodix business card",32,scodix,1331,scodix_gold,scodix_gloss
+094,"scodix business card",32,scodix,1332,scodix_silver,scodix_gloss
+094,"scodix business card",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+094,"scodix business card",33,printed_side,1399,printed_side_duplex,printed_side_simplex
+095,"wine bottle",4,colors,1400,print_color_colorful,print_color_colorful
+095,"wine bottle",13,production_time,1134,industrial,industrial
+095,"wine bottle",14,size,1218,wine_bottle_90x105,wine_bottle_90x105
+095,"wine bottle",30,fix_it,1131,fix_it_no,fix_it_no
+095,"wine bottle",30,fix_it,1130,fix_it_yes,fix_it_no
+096,"hardcover printed notebook",4,colors,1400,print_color_colorful,print_color_colorful
+096,"hardcover printed notebook",5,pattern_inner_pages,1061,notebook_inner_blank,notebook_inner_lines
+096,"hardcover printed notebook",5,pattern_inner_pages,1062,notebook_inner_lines,notebook_inner_lines
+096,"hardcover printed notebook",5,pattern_inner_pages,1063,notebook_inner_grid,notebook_inner_lines
+096,"hardcover printed notebook",6,lamination,844,lamination_1side_glossy,lamination_1side_glossy
+096,"hardcover printed notebook",13,production_time,1134,industrial,industrial
+096,"hardcover printed notebook",13,production_time,754,budget,industrial
+096,"hardcover printed notebook",14,size,1256,hardcover_printed_notebook_a5,hardcover_printed_notebook_a5
+096,"hardcover printed notebook",14,size,1255,hardcover_printed_notebook_a4,hardcover_printed_notebook_a5
+096,"hardcover printed notebook",28,paper_inner_pages,950,paper_inner_pages_woodfree_80,paper_inner_pages_woodfree_80
+096,"hardcover printed notebook",30,fix_it,1131,fix_it_no,fix_it_no
+096,"hardcover printed notebook",30,fix_it,1130,fix_it_yes,fix_it_no
+097,postcard_greeting_card,1,paper,824,chromo_matte_220,chromo_matte_300
+097,postcard_greeting_card,1,paper,825,chromo_glossy_220,chromo_matte_300
+097,postcard_greeting_card,1,paper,822,chromo_matte_300,chromo_matte_300
+097,postcard_greeting_card,1,paper,823,chromo_glossy_300,chromo_matte_300
+097,postcard_greeting_card,1,paper,991,ecological,chromo_matte_300
+097,postcard_greeting_card,4,colors,1400,print_color_colorful,print_color_colorful
+097,postcard_greeting_card,6,lamination,933,lamination_no,lamination_no
+097,postcard_greeting_card,6,lamination,843,lamination_2sides_matte,lamination_no
+097,postcard_greeting_card,6,lamination,845,lamination_2sides_glossy,lamination_no
+097,postcard_greeting_card,13,production_time,1134,industrial,budget
+097,postcard_greeting_card,13,production_time,754,budget,budget
+097,postcard_greeting_card,13,production_time,755,standard,budget
+097,postcard_greeting_card,13,production_time,756,express,budget
+097,postcard_greeting_card,14,size,890,postcard_10x15,postcard_10x15
+097,postcard_greeting_card,30,fix_it,1131,fix_it_no,fix_it_no
+097,postcard_greeting_card,30,fix_it,1130,fix_it_yes,fix_it_no
+097,postcard_greeting_card,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+097,postcard_greeting_card,33,printed_side,1399,printed_side_duplex,printed_side_simplex
+098,brochure,1,paper,828,chromo_matte_135,chromo_matte_135
+098,brochure,1,paper,829,chromo_glossy_135,chromo_matte_135
+098,brochure,1,paper,826,chromo_matte_170,chromo_matte_135
+098,brochure,1,paper,827,chromo_glossy_170,chromo_matte_135
+098,brochure,1,paper,824,chromo_matte_220,chromo_matte_135
+098,brochure,1,paper,825,chromo_glossy_220,chromo_matte_135
+098,brochure,4,colors,1400,print_color_colorful,print_color_colorful
+098,brochure,6,lamination,933,lamination_no,lamination_no
+098,brochure,6,lamination,843,lamination_2sides_matte,lamination_no
+098,brochure,6,lamination,845,lamination_2sides_glossy,lamination_no
+098,brochure,13,production_time,1134,industrial,budget
+098,brochure,13,production_time,754,budget,budget
+098,brochure,13,production_time,755,standard,budget
+098,brochure,13,production_time,756,express,budget
+098,brochure,14,size,1334,brochure_a4,brochure_a4
+098,brochure,30,fix_it,1131,fix_it_no,fix_it_no
+098,brochure,30,fix_it,1130,fix_it_yes,fix_it_no
+099,brochure_fold,1,paper,828,chromo_matte_135,chromo_matte_135
+099,brochure_fold,1,paper,829,chromo_glossy_135,chromo_matte_135
+099,brochure_fold,1,paper,826,chromo_matte_170,chromo_matte_135
+099,brochure_fold,1,paper,827,chromo_glossy_170,chromo_matte_135
+099,brochure_fold,1,paper,824,chromo_matte_220,chromo_matte_135
+099,brochure_fold,1,paper,825,chromo_glossy_220,chromo_matte_135
+099,brochure_fold,4,colors,1400,print_color_colorful,print_color_colorful
+099,brochure_fold,13,production_time,1134,industrial,budget
+099,brochure_fold,13,production_time,754,budget,budget
+099,brochure_fold,13,production_time,755,standard,budget
+099,brochure_fold,13,production_time,756,express,budget
+099,brochure_fold,14,size,1335,brochure_a3_folded,brochure_a3_folded
+099,brochure_fold,30,fix_it,1131,fix_it_no,fix_it_no
+099,brochure_fold,30,fix_it,1130,fix_it_yes,fix_it_no
+100,"Gift Business card",1,paper,822,chromo_matte_300,chromo_matte_300
+100,"Gift Business card",2,format,834,horizontal,horizontal
+100,"Gift Business card",4,colors,1400,print_color_colorful,print_color_colorful
+100,"Gift Business card",6,lamination,845,lamination_2sides_glossy,lamination_2sides_glossy
+100,"Gift Business card",7,round_corners,805,round_corners_no,round_corners_no
+100,"Gift Business card",13,production_time,754,budget,budget
+100,"Gift Business card",13,production_time,1134,industrial,budget
+100,"Gift Business card",14,size,837,business_card_90x50,business_card_90x50
+100,"Gift Business card",30,fix_it,1131,fix_it_no,fix_it_no
+101,hoodie,2,format,765,front_small,front_small
+101,hoodie,2,format,852,front_big,front_small
+101,hoodie,2,format,853,front_small_back,front_small
+101,hoodie,2,format,854,front_big_back,front_small
+101,hoodie,2,format,855,back,front_small
+101,hoodie,4,colors,794,print_color_black,print_color_black
+101,hoodie,4,colors,796,print_color_white,print_color_black
+101,hoodie,13,production_time,1134,industrial,industrial
+101,hoodie,14,size,1136,shirt_a4,shirt_9x9
+101,hoodie,14,size,1137,shirt_9x9,shirt_9x9
+101,hoodie,15,product_color,797,shirt_dark_blue,shirt_dark_blue
+101,hoodie,15,product_color,798,shirt_red,shirt_dark_blue
+101,hoodie,15,product_color,879,shirt_black,shirt_dark_blue
+101,hoodie,15,product_color,883,shirt_purple,shirt_dark_blue
+101,hoodie,15,product_color,884,shirt_white,shirt_dark_blue
+101,hoodie,15,product_color,1001,sweatshirt_bordeaux,shirt_dark_blue
+101,hoodie,15,product_color,1007,sweatshirt_turquoise,shirt_dark_blue
+101,hoodie,15,product_color,1145,tank_shirt_dark_green,shirt_dark_blue
+101,hoodie,15,product_color,1290,baseball_cap_blue,shirt_dark_blue
+101,hoodie,23,clothing_size,869,size_s,size_m
+101,hoodie,23,clothing_size,870,size_m,size_m
+101,hoodie,23,clothing_size,871,size_l,size_m
+101,hoodie,23,clothing_size,872,size_xl,size_m
+101,hoodie,30,fix_it,1131,fix_it_no,fix_it_no
+101,hoodie,30,fix_it,1130,fix_it_yes,fix_it_no
+102,"long sleeve shirt",2,format,765,front_small,front_small
+102,"long sleeve shirt",2,format,852,front_big,front_small
+102,"long sleeve shirt",2,format,853,front_small_back,front_small
+102,"long sleeve shirt",2,format,854,front_big_back,front_small
+102,"long sleeve shirt",2,format,855,back,front_small
+102,"long sleeve shirt",4,colors,794,print_color_black,print_color_black
+102,"long sleeve shirt",4,colors,796,print_color_white,print_color_black
+102,"long sleeve shirt",13,production_time,1134,industrial,industrial
+102,"long sleeve shirt",14,size,1136,shirt_a4,shirt_9x9
+102,"long sleeve shirt",14,size,1137,shirt_9x9,shirt_9x9
+102,"long sleeve shirt",15,product_color,797,shirt_dark_blue,shirt_dark_blue
+102,"long sleeve shirt",15,product_color,879,shirt_black,shirt_dark_blue
+102,"long sleeve shirt",15,product_color,881,shirt_grey,shirt_dark_blue
+102,"long sleeve shirt",15,product_color,884,shirt_white,shirt_dark_blue
+102,"long sleeve shirt",15,product_color,1145,tank_shirt_dark_green,shirt_dark_blue
+102,"long sleeve shirt",23,clothing_size,869,size_s,size_m
+102,"long sleeve shirt",23,clothing_size,870,size_m,size_m
+102,"long sleeve shirt",23,clothing_size,871,size_l,size_m
+102,"long sleeve shirt",23,clothing_size,872,size_xl,size_m
+102,"long sleeve shirt",30,fix_it,1131,fix_it_no,fix_it_no
+102,"long sleeve shirt",30,fix_it,1130,fix_it_yes,fix_it_no
+103,"softshell jacket",2,format,765,front_small,front_small
+103,"softshell jacket",4,colors,1400,print_color_colorful,print_color_colorful
+103,"softshell jacket",13,production_time,1134,industrial,industrial
+103,"softshell jacket",14,size,1365,softshell_jacket_8x8,softshell_jacket_8x8
+103,"softshell jacket",15,product_color,879,shirt_black,shirt_black
+103,"softshell jacket",15,product_color,975,hat_olive,shirt_black
+103,"softshell jacket",23,clothing_size,869,size_s,size_s
+103,"softshell jacket",23,clothing_size,870,size_m,size_s
+103,"softshell jacket",23,clothing_size,871,size_l,size_s
+103,"softshell jacket",23,clothing_size,872,size_xl,size_s
+103,"softshell jacket",23,clothing_size,873,size_xxl,size_s
+103,"softshell jacket",23,clothing_size,874,size_xxxl,size_s
+103,"softshell jacket",30,fix_it,1131,fix_it_no,fix_it_no
+103,"softshell jacket",30,fix_it,1130,fix_it_yes,fix_it_no
+103,"softshell jacket",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+103,"softshell jacket",33,printed_side,1399,printed_side_duplex,printed_side_simplex
+104,coasters,4,colors,1400,print_color_colorful,print_color_colorful
+104,coasters,13,production_time,754,budget,budget
+104,coasters,13,production_time,1134,industrial,budget
+104,coasters,14,size,1384,coasters_90x90,coasters_90x90
+104,coasters,30,fix_it,1130,fix_it_yes,fix_it_no
+104,coasters,30,fix_it,1131,fix_it_no,fix_it_no
+105,"cotton string backpack",4,colors,794,print_color_black,print_color_black
+105,"cotton string backpack",4,colors,796,print_color_white,print_color_black
+105,"cotton string backpack",13,production_time,754,budget,budget
+105,"cotton string backpack",13,production_time,1134,industrial,budget
+105,"cotton string backpack",14,size,1374,cotton_string_backpack_200x200,cotton_string_backpack_200x200
+105,"cotton string backpack",15,product_color,978,work_pants_beige,work_pants_beige
+105,"cotton string backpack",30,fix_it,1130,fix_it_yes,fix_it_no
+105,"cotton string backpack",30,fix_it,1131,fix_it_no,fix_it_no
+106,"Cotton bag",4,colors,794,print_color_black,print_color_black
+106,"Cotton bag",13,production_time,754,budget,budget
+106,"Cotton bag",13,production_time,1134,industrial,budget
+106,"Cotton bag",14,size,1375,cotton_bag_210x297,cotton_bag_210x297
+106,"Cotton bag",15,product_color,978,work_pants_beige,work_pants_beige
+106,"Cotton bag",15,product_color,1019,reusable_bag_blue,work_pants_beige
+106,"Cotton bag",15,product_color,1023,reusable_bag_red,work_pants_beige
+106,"Cotton bag",15,product_color,1089,nylon_bag_azure,work_pants_beige
+106,"Cotton bag",30,fix_it,1131,fix_it_no,fix_it_no
+106,"Cotton bag",30,fix_it,1130,fix_it_yes,fix_it_no
+107,"shopping bag",4,colors,794,print_color_black,print_color_black
+107,"shopping bag",4,colors,796,print_color_white,print_color_black
+107,"shopping bag",13,production_time,754,budget,budget
+107,"shopping bag",13,production_time,1134,industrial,budget
+107,"shopping bag",14,size,1376,shopping_bag_210x297,shopping_bag_210x297
+107,"shopping bag",15,product_color,1019,reusable_bag_blue,reusable_bag_blue
+107,"shopping bag",15,product_color,1020,reusable_bag_green,reusable_bag_blue
+107,"shopping bag",15,product_color,1021,reusable_bag_orange,reusable_bag_blue
+107,"shopping bag",15,product_color,1022,reusable_bag_purple,reusable_bag_blue
+107,"shopping bag",15,product_color,1023,reusable_bag_red,reusable_bag_blue
+107,"shopping bag",15,product_color,1024,reusable_bag_white,reusable_bag_blue
+107,"shopping bag",15,product_color,1089,nylon_bag_azure,reusable_bag_blue
+107,"shopping bag",30,fix_it,1131,fix_it_no,fix_it_no
+107,"shopping bag",30,fix_it,1130,fix_it_yes,fix_it_no
+108," premium steel bottle",4,colors,794,print_color_black,print_color_black
+108," premium steel bottle",4,colors,796,print_color_white,print_color_black
+108," premium steel bottle",13,production_time,754,budget,budget
+108," premium steel bottle",13,production_time,1134,industrial,budget
+108," premium steel bottle",14,size,1377,premium_steel_bottle_50x50,premium_steel_bottle_50x50
+108," premium steel bottle",15,product_color,1087,product_color_black,product_color_white
+108," premium steel bottle",15,product_color,1088,product_color_white,product_color_white
+108," premium steel bottle",30,fix_it,1131,fix_it_no,fix_it_no
+108," premium steel bottle",30,fix_it,1130,fix_it_yes,fix_it_no
+109,"Personal fitness kit",4,colors,796,print_color_white,print_color_white
+109,"Personal fitness kit",13,production_time,754,budget,budget
+109,"Personal fitness kit",13,production_time,1134,industrial,budget
+109,"Personal fitness kit",14,size,1378,personal_fitness_kit_40x35,personal_fitness_kit_40x35
+109,"Personal fitness kit",15,product_color,1087,product_color_black,product_color_black
+109,"Personal fitness kit",30,fix_it,1130,fix_it_yes,fix_it_no
+109,"Personal fitness kit",30,fix_it,1131,fix_it_no,fix_it_no
+110,"premium plastic bottle",4,colors,796,print_color_white,print_color_white
+110,"premium plastic bottle",13,production_time,754,budget,budget
+110,"premium plastic bottle",13,production_time,1134,industrial,budget
+110,"premium plastic bottle",14,size,1379,premium_plastic_bottle_50x70,premium_plastic_bottle_50x70
+110,"premium plastic bottle",15,product_color,1012,dryfit_grey,dryfit_grey
+110,"premium plastic bottle",15,product_color,1014,dryfit_red,dryfit_grey
+110,"premium plastic bottle",15,product_color,1019,reusable_bag_blue,dryfit_grey
+110,"premium plastic bottle",15,product_color,1089,nylon_bag_azure,dryfit_grey
+110,"premium plastic bottle",30,fix_it,1131,fix_it_no,fix_it_no
+110,"premium plastic bottle",30,fix_it,1130,fix_it_yes,fix_it_no
+111,"Kitchen apron",4,colors,794,print_color_black,print_color_white
+111,"Kitchen apron",4,colors,796,print_color_white,print_color_white
+111,"Kitchen apron",13,production_time,1134,industrial,industrial
+111,"Kitchen apron",14,size,1380,kitchen_apron_210x148,kitchen_apron_210x148
+111,"Kitchen apron",15,product_color,1087,product_color_black,product_color_black
+111,"Kitchen apron",15,product_color,1088,product_color_white,product_color_black
+111,"Kitchen apron",15,product_color,1385,kitchen_apron_black_and_white,product_color_black
+111,"Kitchen apron",30,fix_it,1131,fix_it_no,fix_it_no
+111,"Kitchen apron",30,fix_it,1130,fix_it_yes,fix_it_no
+112,Bathrobe,4,colors,1400,print_color_colorful,print_color_colorful
+112,Bathrobe,13,production_time,1134,industrial,industrial
+112,Bathrobe,14,size,1381,bathrobe_210x297,bathrobe_210x297
+112,Bathrobe,15,product_color,1088,product_color_white,shirt_grey
+112,Bathrobe,15,product_color,881,shirt_grey,shirt_grey
+112,Bathrobe,23,clothing_size,869,size_s,size_s
+112,Bathrobe,23,clothing_size,870,size_m,size_s
+112,Bathrobe,23,clothing_size,871,size_l,size_s
+112,Bathrobe,23,clothing_size,872,size_xl,size_s
+112,Bathrobe,30,fix_it,1131,fix_it_no,fix_it_no
+112,Bathrobe,30,fix_it,1130,fix_it_yes,fix_it_no
+113,"bluetooth headphones",4,colors,1400,print_color_colorful,print_color_colorful
+113,"bluetooth headphones",13,production_time,754,budget,budget
+113,"bluetooth headphones",13,production_time,1134,industrial,budget
+113,"bluetooth headphones",14,size,1382,bluetooth_headphones_30x23,bluetooth_headphones_30x23
+113,"bluetooth headphones",15,product_color,1088,product_color_white,product_color_white
+113,"bluetooth headphones",30,fix_it,1130,fix_it_yes,fix_it_no
+113,"bluetooth headphones",30,fix_it,1131,fix_it_no,fix_it_no
+114,"Conference tag",4,colors,1400,print_color_colorful,print_color_colorful
+114,"Conference tag",13,production_time,754,budget,budget
+114,"Conference tag",13,production_time,1134,industrial,budget
+114,"Conference tag",14,size,1383,conference_tag_60x20,conference_tag_60x20
+114,"Conference tag",15,product_color,1088,product_color_white,product_color_white
+114,"Conference tag",30,fix_it,1130,fix_it_yes,fix_it_no
+114,"Conference tag",30,fix_it,1131,fix_it_no,fix_it_no
+115,"Wireless Headphones",4,colors,794,print_color_black,print_color_black
+115,"Wireless Headphones",4,colors,796,print_color_white,print_color_black
+115,"Wireless Headphones",13,production_time,754,budget,budget
+115,"Wireless Headphones",13,production_time,1134,industrial,budget
+115,"Wireless Headphones",14,size,1373,wireless_headphones_45x50,wireless_headphones_45x50
+115,"Wireless Headphones",15,product_color,1087,product_color_black,product_color_black
+115,"Wireless Headphones",15,product_color,1088,product_color_white,product_color_black
+115,"Wireless Headphones",30,fix_it,1130,fix_it_yes,fix_it_no
+115,"Wireless Headphones",30,fix_it,1131,fix_it_no,fix_it_no
+116,"Special business cards trio",1,paper,1386,felix_schoeller_220g,felix_schoeller_220g
+116,"Special business cards trio",2,format,834,horizontal,horizontal
+116,"Special business cards trio",2,format,835,vertical,horizontal
+116,"Special business cards trio",2,format,929,square,horizontal
+116,"Special business cards trio",4,colors,1400,print_color_colorful,print_color_colorful
+116,"Special business cards trio",7,round_corners,804,round_corners_yes,round_corners_no
+116,"Special business cards trio",7,round_corners,805,round_corners_no,round_corners_no
+116,"Special business cards trio",13,production_time,754,budget,budget
+116,"Special business cards trio",13,production_time,1134,industrial,budget
+116,"Special business cards trio",14,size,836,business_card_85x55,business_card_85x55
+116,"Special business cards trio",14,size,837,business_card_90x50,business_card_85x55
+116,"Special business cards trio",14,size,990,business_card_65x65,business_card_85x55
+116,"Special business cards trio",30,fix_it,1131,fix_it_no,fix_it_no
+116,"Special business cards trio",30,fix_it,1130,fix_it_yes,fix_it_no
+116,"Special business cards trio",31,cup_lid,1394,bc_trio_black,bc_trio_black
+116,"Special business cards trio",31,cup_lid,1396,bc_trio_red,bc_trio_black
+116,"Special business cards trio",31,cup_lid,1420,bc_trio_orange,bc_trio_black
+116,"Special business cards trio",31,cup_lid,1421,bc_trio_sky_blue,bc_trio_black
+116,"Special business cards trio",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+116,"Special business cards trio",33,printed_side,1399,printed_side_duplex,printed_side_simplex
+117,"event invitations",1,paper,1333,chromo_matte_350,chromo_matte_350
+117,"event invitations",1,paper,991,ecological,chromo_matte_350
+117,"event invitations",1,paper,1389,majestic_white_300,chromo_matte_350
+117,"event invitations",2,format,834,horizontal,horizontal
+117,"event invitations",2,format,835,vertical,horizontal
+117,"event invitations",2,format,929,square,horizontal
+117,"event invitations",4,colors,1400,print_color_colorful,print_color_colorful
+117,"event invitations",13,production_time,1134,industrial,budget
+117,"event invitations",13,production_time,754,budget,budget
+117,"event invitations",13,production_time,755,standard,budget
+117,"event invitations",13,production_time,756,express,budget
+117,"event invitations",14,size,1387,event_invitations_12x18,event_invitations_12x18
+117,"event invitations",14,size,1388,event_invitations_15x15,event_invitations_12x18
+117,"event invitations",30,fix_it,1131,fix_it_no,fix_it_no
+117,"event invitations",30,fix_it,1130,fix_it_yes,fix_it_no
+117,"event invitations",31,cup_lid,1391,invite_envelope_no,invite_envelope_no
+117,"event invitations",31,cup_lid,1392,invite_envelope_yes,invite_envelope_no
+117,"event invitations",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+117,"event invitations",33,printed_side,1399,printed_side_duplex,printed_side_simplex
+118,family_package,4,colors,1400,print_color_colorful,print_color_colorful
+118,family_package,13,production_time,754,budget,budget
+118,family_package,13,production_time,755,standard,budget
+118,family_package,13,production_time,1134,industrial,budget
+118,family_package,14,size,1337,shape_cut_10x10,shape_cut_10x10
+118,family_package,30,fix_it,1130,fix_it_yes,fix_it_no
+118,family_package,30,fix_it,1131,fix_it_no,fix_it_no
+118,family_package,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+119,kids_package,4,colors,1400,print_color_colorful,print_color_colorful
+119,kids_package,13,production_time,754,budget,budget
+119,kids_package,13,production_time,755,standard,budget
+119,kids_package,13,production_time,1134,industrial,budget
+119,kids_package,14,size,1337,shape_cut_10x10,shape_cut_10x10
+119,kids_package,30,fix_it,1130,fix_it_yes,fix_it_no
+119,kids_package,30,fix_it,1131,fix_it_no,fix_it_no
+119,kids_package,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+120,magnet_package,4,colors,1400,print_color_colorful,print_color_colorful
+120,magnet_package,13,production_time,754,budget,budget
+120,magnet_package,13,production_time,755,standard,budget
+120,magnet_package,13,production_time,1134,industrial,budget
+120,magnet_package,14,size,1337,shape_cut_10x10,shape_cut_10x10
+120,magnet_package,30,fix_it,1130,fix_it_yes,fix_it_no
+120,magnet_package,30,fix_it,1131,fix_it_no,fix_it_no
+120,magnet_package,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+121,bundle_package,4,colors,1400,print_color_colorful,print_color_colorful
+121,bundle_package,13,production_time,754,budget,budget
+121,bundle_package,13,production_time,755,standard,budget
+121,bundle_package,13,production_time,1134,industrial,budget
+121,bundle_package,14,size,1337,shape_cut_10x10,shape_cut_10x10
+121,bundle_package,30,fix_it,1130,fix_it_yes,fix_it_no
+121,bundle_package,30,fix_it,1131,fix_it_no,fix_it_no
+121,bundle_package,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+122,"covid19 stickers",4,colors,1400,print_color_colorful,print_color_colorful
+122,"covid19 stickers",13,production_time,754,budget,budget
+122,"covid19 stickers",13,production_time,755,standard,budget
+122,"covid19 stickers",13,production_time,1134,industrial,budget
+122,"covid19 stickers",14,size,925,sticker_circle_5,sticker_circle_5
+122,"covid19 stickers",30,fix_it,1130,fix_it_yes,fix_it_no
+122,"covid19 stickers",30,fix_it,1131,fix_it_no,fix_it_no
+123,"covid19 shirts",2,format,852,front_big,front_big
+123,"covid19 shirts",4,colors,794,print_color_black,print_color_white
+123,"covid19 shirts",4,colors,796,print_color_white,print_color_white
+123,"covid19 shirts",13,production_time,754,budget,budget
+123,"covid19 shirts",13,production_time,1134,industrial,budget
+123,"covid19 shirts",15,product_color,797,shirt_dark_blue,shirt_dark_blue
+123,"covid19 shirts",15,product_color,798,shirt_red,shirt_dark_blue
+123,"covid19 shirts",15,product_color,879,shirt_black,shirt_dark_blue
+123,"covid19 shirts",15,product_color,881,shirt_grey,shirt_dark_blue
+123,"covid19 shirts",15,product_color,884,shirt_white,shirt_dark_blue
+123,"covid19 shirts",23,clothing_size,869,size_s,size_s
+123,"covid19 shirts",23,clothing_size,870,size_m,size_s
+123,"covid19 shirts",23,clothing_size,871,size_l,size_s
+123,"covid19 shirts",23,clothing_size,872,size_xl,size_s
+123,"covid19 shirts",23,clothing_size,873,size_xxl,size_s
+123,"covid19 shirts",23,clothing_size,874,size_xxxl,size_s
+123,"covid19 shirts",30,fix_it,1131,fix_it_no,fix_it_no
+123,"covid19 shirts",30,fix_it,1130,fix_it_yes,fix_it_no
+124,Alcogel,4,colors,1400,print_color_colorful,print_color_colorful
+124,Alcogel,13,production_time,754,budget,budget
+124,Alcogel,13,production_time,1134,industrial,budget
+124,Alcogel,14,size,1412,alcogel_45x60,alcogel_45x60
+124,Alcogel,30,fix_it,1130,fix_it_yes,fix_it_no
+124,Alcogel,30,fix_it,1131,fix_it_no,fix_it_no
+125,"Floor stickers",4,colors,1400,print_color_colorful,print_color_colorful
+125,"Floor stickers",13,production_time,754,budget,budget
+125,"Floor stickers",13,production_time,755,standard,budget
+125,"Floor stickers",13,production_time,1134,industrial,budget
+125,"Floor stickers",14,size,1409,floor_sticker_400x400,floor_sticker_400x400
+125,"Floor stickers",30,fix_it,1130,fix_it_yes,fix_it_no
+125,"Floor stickers",30,fix_it,1131,fix_it_no,fix_it_no
+126,"Covid19 kappa",4,colors,1400,print_color_colorful,print_color_colorful
+126,"Covid19 kappa",13,production_time,754,budget,budget
+126,"Covid19 kappa",13,production_time,755,standard,budget
+126,"Covid19 kappa",13,production_time,1134,industrial,budget
+126,"Covid19 kappa",14,size,1366,kappa_poster_a4,kappa_poster_a4
+126,"Covid19 kappa",14,size,1367,kappa_poster_a3,kappa_poster_a4
+126,"Covid19 kappa",14,size,1368,kappa_poster_50x70,kappa_poster_a4
+126,"Covid19 kappa",30,fix_it,1130,fix_it_yes,fix_it_no
+126,"Covid19 kappa",30,fix_it,1131,fix_it_no,fix_it_no
+127,"Covid19 poster",4,colors,1400,print_color_colorful,print_color_colorful
+127,"Covid19 poster",13,production_time,754,budget,budget
+127,"Covid19 poster",13,production_time,755,standard,budget
+127,"Covid19 poster",13,production_time,1134,industrial,budget
+127,"Covid19 poster",14,size,839,poster_70_50,poster_70_50
+127,"Covid19 poster",14,size,941,poster_a4,poster_70_50
+127,"Covid19 poster",14,size,942,poster_a3,poster_70_50
+127,"Covid19 poster",30,fix_it,1130,fix_it_yes,fix_it_no
+127,"Covid19 poster",30,fix_it,1131,fix_it_no,fix_it_no
+128,"Covid19 rollup",4,colors,1400,print_color_colorful,print_color_colorful
+128,"Covid19 rollup",13,production_time,754,budget,budget
+128,"Covid19 rollup",13,production_time,755,standard,budget
+128,"Covid19 rollup",13,production_time,1134,industrial,budget
+128,"Covid19 rollup",14,size,876,rollup_85x200,rollup_85x200
+128,"Covid19 rollup",30,fix_it,1130,fix_it_yes,fix_it_no
+128,"Covid19 rollup",30,fix_it,1131,fix_it_no,fix_it_no
+129,"paper bag",4,colors,794,print_color_black,print_color_black
+129,"paper bag",4,colors,795,print_color_silver,print_color_black
+129,"paper bag",13,production_time,1134,industrial,industrial
+129,"paper bag",14,size,1413,paper_bag_130x130,paper_bag_130x130
+129,"paper bag",14,size,1414,paper_bag_150x160,paper_bag_130x130
+129,"paper bag",14,size,1415,paper_bag_180x210,paper_bag_130x130
+129,"paper bag",14,size,1416,paper_bag_280x280,paper_bag_130x130
+129,"paper bag",15,product_color,886,pen_black,towel_white
+129,"paper bag",15,product_color,799,towel_white,towel_white
+129,"paper bag",15,product_color,1418,paper_bag_brown,towel_white
+129,"paper bag",30,fix_it,1131,fix_it_no,fix_it_no
+129,"paper bag",30,fix_it,1130,fix_it_yes,fix_it_no
+130,Mask,4,colors,1400,print_color_colorful,print_color_colorful
+130,Mask,4,colors,796,print_color_white,print_color_colorful
+130,Mask,13,production_time,754,budget,budget
+130,Mask,13,production_time,1134,industrial,budget
+130,Mask,14,size,1505,mask_15x6,mask_15x6
+130,Mask,15,product_color,879,shirt_black,shirt_white
+130,Mask,15,product_color,884,shirt_white,shirt_white
+130,Mask,23,clothing_size,1466,kids_size,kids_size
+130,Mask,23,clothing_size,1467,adults_size,kids_size
+130,Mask,30,fix_it,1131,fix_it_no,fix_it_no
+130,Mask,30,fix_it,1130,fix_it_yes,fix_it_no
+131,covid19_alocobond,4,colors,1400,print_color_colorful,print_color_colorful
+131,covid19_alocobond,13,production_time,754,budget,budget
+131,covid19_alocobond,13,production_time,1134,industrial,budget
+131,covid19_alocobond,14,size,936,art_print_a4,art_print_a4
+131,covid19_alocobond,14,size,937,art_print_a3,art_print_a4
+131,covid19_alocobond,14,size,938,art_print_50x70,art_print_a4
+131,covid19_alocobond,21,hanging_holes,789,hanging_holes_yes,hanging_holes_no
+131,covid19_alocobond,21,hanging_holes,790,hanging_holes_no,hanging_holes_no
+131,covid19_alocobond,22,screws,792,screws_yes,screws_no
+131,covid19_alocobond,22,screws,793,screws_no,screws_no
+131,covid19_alocobond,30,fix_it,1130,fix_it_yes,fix_it_no
+131,covid19_alocobond,30,fix_it,1131,fix_it_no,fix_it_no
+132,menu,1,paper,820,woodfree_80,woodfree_80
+132,menu,1,paper,828,chromo_matte_135,woodfree_80
+132,menu,1,paper,829,chromo_glossy_135,woodfree_80
+132,menu,1,paper,824,chromo_matte_220,woodfree_80
+132,menu,1,paper,825,chromo_glossy_220,woodfree_80
+132,menu,1,paper,822,chromo_matte_300,woodfree_80
+132,menu,1,paper,823,chromo_glossy_300,woodfree_80
+132,menu,4,colors,1400,print_color_colorful,print_color_colorful
+132,menu,13,production_time,1134,industrial,budget
+132,menu,13,production_time,754,budget,budget
+132,menu,13,production_time,755,standard,budget
+132,menu,13,production_time,756,express,budget
+132,menu,14,size,981,a5_with_bleed,a5_with_bleed
+132,menu,14,size,982,a4_with_bleed,a5_with_bleed
+132,menu,30,fix_it,1131,fix_it_no,fix_it_no
+132,menu,30,fix_it,1130,fix_it_yes,fix_it_no
+132,menu,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+132,menu,33,printed_side,1399,printed_side_duplex,printed_side_simplex
+133,"Bonus Business card",1,paper,822,chromo_matte_300,chromo_matte_300
+133,"Bonus Business card",2,format,834,horizontal,horizontal
+133,"Bonus Business card",4,colors,1400,print_color_colorful,print_color_colorful
+133,"Bonus Business card",6,lamination,845,lamination_2sides_glossy,lamination_2sides_glossy
+133,"Bonus Business card",7,round_corners,805,round_corners_no,round_corners_no
+133,"Bonus Business card",13,production_time,754,budget,budget
+133,"Bonus Business card",13,production_time,1134,industrial,budget
+133,"Bonus Business card",14,size,837,business_card_90x50,business_card_90x50
+133,"Bonus Business card",30,fix_it,1131,fix_it_no,fix_it_no
+133,"Bonus Business card",33,printed_side,1399,printed_side_duplex,printed_side_duplex
+134,"branded candies",4,colors,1400,print_color_colorful,print_color_colorful
+134,"branded candies",13,production_time,1134,industrial,industrial
+134,"branded candies",14,size,1422,branded_candies_55x77,branded_candies_55x77
+134,"branded candies",30,fix_it,1131,fix_it_no,fix_it_no
+134,"branded candies",30,fix_it,1130,fix_it_yes,fix_it_no
+135,biscuit,4,colors,1400,print_color_colorful,print_color_colorful
+135,biscuit,13,production_time,754,budget,budget
+135,biscuit,13,production_time,1134,industrial,budget
+135,biscuit,14,size,1423,biscuit_100x96,biscuit_100x96
+135,biscuit,30,fix_it,1131,fix_it_no,fix_it_no
+135,biscuit,30,fix_it,1130,fix_it_yes,fix_it_no
+135,biscuit,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+136,"pyramids with chocolate",4,colors,1400,print_color_colorful,print_color_colorful
+136,"pyramids with chocolate",13,production_time,754,budget,budget
+136,"pyramids with chocolate",13,production_time,1134,industrial,budget
+136,"pyramids with chocolate",14,size,1424,pyramids_with_chocolate_45x45,pyramids_with_chocolate_45x45
+136,"pyramids with chocolate",30,fix_it,1131,fix_it_no,fix_it_no
+136,"pyramids with chocolate",30,fix_it,1130,fix_it_yes,fix_it_no
+136,"pyramids with chocolate",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+137,"candy in metal box",4,colors,1400,print_color_colorful,print_color_colorful
+137,"candy in metal box",13,production_time,754,budget,budget
+137,"candy in metal box",13,production_time,1134,industrial,budget
+137,"candy in metal box",14,size,1448,candy_in_metal_box_60x49,candy_in_metal_box_60x49
+137,"candy in metal box",30,fix_it,1131,fix_it_no,fix_it_no
+137,"candy in metal box",30,fix_it,1130,fix_it_yes,fix_it_no
+137,"candy in metal box",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+138,"candy in personalized box",4,colors,1400,print_color_colorful,print_color_colorful
+138,"candy in personalized box",13,production_time,754,budget,budget
+138,"candy in personalized box",13,production_time,1134,industrial,budget
+138,"candy in personalized box",14,size,1426,candy_in_personalized_box_40x40,candy_in_personalized_box_40x40
+138,"candy in personalized box",30,fix_it,1131,fix_it_no,fix_it_no
+138,"candy in personalized box",30,fix_it,1130,fix_it_yes,fix_it_no
+138,"candy in personalized box",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+139,"keychain with candies",4,colors,1400,print_color_colorful,print_color_colorful
+139,"keychain with candies",13,production_time,754,budget,budget
+139,"keychain with candies",13,production_time,1134,industrial,budget
+139,"keychain with candies",14,size,1427,keychain_with_candies_58x32,keychain_with_candies_58x32
+139,"keychain with candies",30,fix_it,1131,fix_it_no,fix_it_no
+139,"keychain with candies",30,fix_it,1130,fix_it_yes,fix_it_no
+139,"keychain with candies",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+140,"can filled with candy",4,colors,1400,print_color_colorful,print_color_colorful
+140,"can filled with candy",13,production_time,754,budget,budget
+140,"can filled with candy",13,production_time,1134,industrial,budget
+140,"can filled with candy",14,size,1449,can_filled_with_candy_202x42,can_filled_with_candy_202x42
+140,"can filled with candy",30,fix_it,1131,fix_it_no,fix_it_no
+140,"can filled with candy",30,fix_it,1130,fix_it_yes,fix_it_no
+140,"can filled with candy",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+141,"can filled with Nuts",4,colors,1400,print_color_colorful,print_color_colorful
+141,"can filled with Nuts",13,production_time,754,budget,budget
+141,"can filled with Nuts",13,production_time,1134,industrial,budget
+141,"can filled with Nuts",14,size,1450,can_filled_with_nuts_202x42,can_filled_with_nuts_202x42
+141,"can filled with Nuts",30,fix_it,1131,fix_it_no,fix_it_no
+141,"can filled with Nuts",30,fix_it,1130,fix_it_yes,fix_it_no
+141,"can filled with Nuts",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+142,"cylinder with Mantus",4,colors,1400,print_color_colorful,print_color_colorful
+142,"cylinder with Mantus",13,production_time,754,budget,budget
+142,"cylinder with Mantus",13,production_time,1134,industrial,budget
+142,"cylinder with Mantus",14,size,1428,cylinder_with_mantus_46x78,cylinder_with_mantus_46x78
+142,"cylinder with Mantus",30,fix_it,1131,fix_it_no,fix_it_no
+142,"cylinder with Mantus",30,fix_it,1130,fix_it_yes,fix_it_no
+142,"cylinder with Mantus",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+143,"candy roll",4,colors,1400,print_color_colorful,print_color_colorful
+143,"candy roll",13,production_time,754,budget,budget
+143,"candy roll",13,production_time,1134,industrial,budget
+143,"candy roll",14,size,1430,candy_roll_50x42,candy_roll_50x42
+143,"candy roll",30,fix_it,1131,fix_it_no,fix_it_no
+143,"candy roll",30,fix_it,1130,fix_it_yes,fix_it_no
+143,"candy roll",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+144,diary,4,colors,1400,print_color_colorful,print_color_colorful
+144,diary,6,lamination,844,lamination_1side_glossy,lamination_1side_glossy
+144,diary,13,production_time,1134,industrial,industrial
+144,diary,13,production_time,754,budget,industrial
+144,diary,13,production_time,755,standard,industrial
+144,diary,14,size,1256,hardcover_printed_notebook_a5,hardcover_printed_notebook_a5
+144,diary,28,paper_inner_pages,950,paper_inner_pages_woodfree_80,paper_inner_pages_woodfree_80
+144,diary,30,fix_it,1131,fix_it_no,fix_it_no
+144,diary,30,fix_it,1130,fix_it_yes,fix_it_no
+144,diary,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+145,"roll sticker",1,paper,1461,sticker_polypropylene,sticker_polypropylene
+145,"roll sticker",1,paper,1462,sticker_paper,sticker_polypropylene
+145,"roll sticker",2,format,1580,roll_sticker_circle,roll_sticker_circle
+145,"roll sticker",2,format,1581,roll_sticker_rectangle,roll_sticker_circle
+145,"roll sticker",2,format,1582,roll_sticker_ellipse,roll_sticker_circle
+145,"roll sticker",2,format,1583,roll_sticker_square,roll_sticker_circle
+145,"roll sticker",2,format,1584,roll_sticker_hexagon,roll_sticker_circle
+145,"roll sticker",2,format,1585,roll_sticker_label,roll_sticker_circle
+145,"roll sticker",4,colors,1400,print_color_colorful,print_color_colorful
+145,"roll sticker",6,lamination,933,lamination_no,lamination_no
+145,"roll sticker",6,lamination,844,lamination_1side_glossy,lamination_no
+145,"roll sticker",13,production_time,1134,industrial,industrial
+145,"roll sticker",14,size,1560,sticker_roll_cir_3x3,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1451,sticker_roll_cir_4x4,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1561,sticker_roll_cir_5x5,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1452,sticker_roll_cir_6x6,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1562,sticker_roll_cir_7x7,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1563,sticker_roll_cir_8x8,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1453,sticker_roll_cir_9x9,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1564,sticker_roll_cir_10x10,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1565,sticker_roll_cir_15x15,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1567,sticker_roll_squ_3x3,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1454,sticker_roll_squ_4x4,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1568,sticker_roll_squ_5x5,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1455,sticker_roll_squ_6x6,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1569,sticker_roll_squ_7x7,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1570,sticker_roll_squ_8x8,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1456,sticker_roll_squ_9x9,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1571,sticker_roll_squ_10x10,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1572,sticker_roll_squ_15x15,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1457,sticker_roll_rectangle_9x5,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1459,sticker_roll_rectangle_18x6,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1573,sticker_roll_ellipse_6x3,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1574,sticker_roll_ellipse_8x4,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1575,sticker_roll_ellipse_15x10,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1576,sticker_roll_hexagon_5x5,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1577,sticker_roll_hexagon_7x7,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1578,sticker_roll_label_3x5,sticker_roll_cir_3x3
+145,"roll sticker",14,size,1579,sticker_roll_label_5x7,sticker_roll_cir_3x3
+145,"roll sticker",15,product_color,1088,product_color_white,product_color_white
+145,"roll sticker",15,product_color,1460,car_sticker_a3_clear,product_color_white
+145,"roll sticker",30,fix_it,1131,fix_it_no,fix_it_no
+145,"roll sticker",30,fix_it,1130,fix_it_yes,fix_it_no
+145,"roll sticker",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+146,stamp,4,colors,794,print_color_black,print_color_black
+146,stamp,13,production_time,754,budget,budget
+146,stamp,13,production_time,1134,industrial,budget
+146,stamp,14,size,1463,stamp_38x14,stamp_38x14
+146,stamp,14,size,1464,stamp_47x18,stamp_38x14
+146,stamp,14,size,1465,stamp_58x22,stamp_38x14
+146,stamp,14,size,1553,stamp_round_41x41,stamp_38x14
+146,stamp,14,size,1554,stamp_round_51x51,stamp_38x14
+146,stamp,14,size,1555,stamp_round_20x20,stamp_38x14
+146,stamp,14,size,1556,stamp_round_12x12,stamp_38x14
+146,stamp,30,fix_it,1131,fix_it_no,fix_it_no
+146,stamp,30,fix_it,1130,fix_it_yes,fix_it_no
+146,stamp,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+147,hammock,4,colors,794,print_color_black,print_color_black
+147,hammock,4,colors,796,print_color_white,print_color_black
+147,hammock,13,production_time,754,budget,budget
+147,hammock,13,production_time,1134,industrial,budget
+147,hammock,14,size,1468,hammock_80x80,hammock_80x80
+147,hammock,15,product_color,1089,nylon_bag_azure,nylon_bag_azure
+147,hammock,30,fix_it,1131,fix_it_no,fix_it_no
+147,hammock,30,fix_it,1130,fix_it_yes,fix_it_no
+147,hammock,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+148,"microfiber towel",4,colors,796,print_color_white,print_color_white
+148,"microfiber towel",13,production_time,754,budget,budget
+148,"microfiber towel",13,production_time,1134,industrial,budget
+148,"microfiber towel",14,size,1469,microfiber_towel_70x100,microfiber_towel_70x100
+148,"microfiber towel",15,product_color,1087,product_color_black,product_color_black
+148,"microfiber towel",30,fix_it,1131,fix_it_no,fix_it_no
+148,"microfiber towel",30,fix_it,1130,fix_it_yes,fix_it_no
+148,"microfiber towel",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+149,"food cooler",4,colors,794,print_color_black,print_color_black
+149,"food cooler",4,colors,796,print_color_white,print_color_black
+149,"food cooler",13,production_time,754,budget,budget
+149,"food cooler",13,production_time,1134,industrial,budget
+149,"food cooler",14,size,1470,food_cooler_80x100,food_cooler_80x100
+149,"food cooler",15,product_color,797,shirt_dark_blue,shirt_dark_blue
+149,"food cooler",15,product_color,881,shirt_grey,shirt_dark_blue
+149,"food cooler",15,product_color,978,work_pants_beige,shirt_dark_blue
+149,"food cooler",15,product_color,1013,dryfit_pink,shirt_dark_blue
+149,"food cooler",30,fix_it,1131,fix_it_no,fix_it_no
+149,"food cooler",30,fix_it,1130,fix_it_yes,fix_it_no
+149,"food cooler",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+150,"cooler bag",4,colors,794,print_color_black,print_color_black
+150,"cooler bag",4,colors,796,print_color_white,print_color_black
+150,"cooler bag",13,production_time,754,budget,budget
+150,"cooler bag",13,production_time,1134,industrial,budget
+150,"cooler bag",14,size,1471,cooler_bag_100x60,cooler_bag_100x60
+150,"cooler bag",15,product_color,808,pen_blue,pen_blue
+150,"cooler bag",15,product_color,881,shirt_grey,pen_blue
+150,"cooler bag",15,product_color,1121,decorated_pen_dark_green,pen_blue
+150,"cooler bag",30,fix_it,1131,fix_it_no,fix_it_no
+150,"cooler bag",30,fix_it,1130,fix_it_yes,fix_it_no
+150,"cooler bag",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+151,"folding cooler",4,colors,796,print_color_white,print_color_white
+151,"folding cooler",13,production_time,754,budget,budget
+151,"folding cooler",13,production_time,1134,industrial,budget
+151,"folding cooler",14,size,1472,folding_cooler_120x60,folding_cooler_120x60
+151,"folding cooler",15,product_color,808,pen_blue,pen_blue
+151,"folding cooler",15,product_color,809,pen_red,pen_blue
+151,"folding cooler",15,product_color,866,pen_lime,pen_blue
+151,"folding cooler",30,fix_it,1131,fix_it_no,fix_it_no
+151,"folding cooler",30,fix_it,1130,fix_it_yes,fix_it_no
+152,Checks,4,colors,1400,print_color_colorful,print_color_colorful
+152,Checks,13,production_time,754,budget,budget
+152,Checks,13,production_time,1134,industrial,budget
+152,Checks,30,fix_it,1131,fix_it_no,fix_it_no
+152,Checks,34,bank,1474,bank_leumi,bank_leumi
+152,Checks,34,bank,1475,bank_hapoalim,bank_leumi
+152,Checks,34,bank,1476,bank_discount,bank_leumi
+152,Checks,34,bank,1477,bank_mercantile,bank_leumi
+152,Checks,34,bank,1478,bank_igud,bank_leumi
+152,Checks,34,bank,1479,bank_mizrachi,bank_leumi
+152,Checks,36,software,1481,software_hashavshevet_windows_2,software_hashavshevet_windows_2
+152,Checks,36,software,1482,software_priority_eshbal,software_hashavshevet_windows_2
+152,Checks,36,software,1484,software_sap,software_hashavshevet_windows_2
+152,Checks,36,software,1485,software_hashavshevet,software_hashavshevet_windows_2
+152,Checks,36,software,1486,software_daarom,software_hashavshevet_windows_2
+152,Checks,36,software,1487,software_unkown,software_hashavshevet_windows_2
+152,Checks,37,warranty_check,1489,warranty_check_without,warranty_check_without
+152,Checks,37,warranty_check,1490,warranty_check_motav_bilvad,warranty_check_without
+152,Checks,37,warranty_check,1491,warranty_check_motav_bilvad_with_cross,warranty_check_without
+152,Checks,37,warranty_check,1492,warranty_check_cross,warranty_check_without
+152,Checks,38,check_copies,1494,check_copies_original,check_copies_original
+152,Checks,38,check_copies,1495,check_copies_original_and_copy,check_copies_original
+152,Checks,38,check_copies,1496,check_copies_original_and_two_copies,check_copies_original
+152,Checks,38,check_copies,1497,check_copies_original_and_copy_on_side,check_copies_original
+153,"tax invoice",4,colors,794,print_color_black,print_color_black
+153,"tax invoice",13,production_time,754,budget,budget
+153,"tax invoice",13,production_time,1134,industrial,budget
+153,"tax invoice",14,size,818,a5,a5
+153,"tax invoice",14,size,817,a4,a5
+153,"tax invoice",14,size,1501,invoice_105_3x100,a5
+153,"tax invoice",27,amount_in_block,913,amount_in_block_50,amount_in_block_25
+153,"tax invoice",27,amount_in_block,1500,amount_in_block_25,amount_in_block_25
+153,"tax invoice",30,fix_it,1131,fix_it_no,fix_it_no
+153,"tax invoice",30,fix_it,1130,fix_it_yes,fix_it_no
+153,"tax invoice",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+153,"tax invoice",38,check_copies,1496,check_copies_original_and_two_copies,check_copies_original_and_two_copies
+154,"receipt tax invoice",4,colors,794,print_color_black,print_color_black
+154,"receipt tax invoice",13,production_time,754,budget,budget
+154,"receipt tax invoice",13,production_time,1134,industrial,budget
+154,"receipt tax invoice",14,size,818,a5,a5
+154,"receipt tax invoice",14,size,817,a4,a5
+154,"receipt tax invoice",14,size,1501,invoice_105_3x100,a5
+154,"receipt tax invoice",27,amount_in_block,913,amount_in_block_50,amount_in_block_25
+154,"receipt tax invoice",27,amount_in_block,1500,amount_in_block_25,amount_in_block_25
+154,"receipt tax invoice",30,fix_it,1131,fix_it_no,fix_it_no
+154,"receipt tax invoice",30,fix_it,1130,fix_it_yes,fix_it_no
+154,"receipt tax invoice",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+154,"receipt tax invoice",38,check_copies,1496,check_copies_original_and_two_copies,check_copies_original_and_two_copies
+155,"exempt dealer Receipts",4,colors,794,print_color_black,print_color_black
+155,"exempt dealer Receipts",13,production_time,754,budget,budget
+155,"exempt dealer Receipts",13,production_time,1134,industrial,budget
+155,"exempt dealer Receipts",14,size,818,a5,a5
+155,"exempt dealer Receipts",14,size,817,a4,a5
+155,"exempt dealer Receipts",14,size,1501,invoice_105_3x100,a5
+155,"exempt dealer Receipts",27,amount_in_block,913,amount_in_block_50,amount_in_block_25
+155,"exempt dealer Receipts",27,amount_in_block,1500,amount_in_block_25,amount_in_block_25
+155,"exempt dealer Receipts",30,fix_it,1131,fix_it_no,fix_it_no
+155,"exempt dealer Receipts",30,fix_it,1130,fix_it_yes,fix_it_no
+155,"exempt dealer Receipts",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+155,"exempt dealer Receipts",38,check_copies,1496,check_copies_original_and_two_copies,check_copies_original_and_two_copies
+156,"transaction invoice",4,colors,794,print_color_black,print_color_black
+156,"transaction invoice",13,production_time,754,budget,budget
+156,"transaction invoice",13,production_time,1134,industrial,budget
+156,"transaction invoice",14,size,818,a5,a5
+156,"transaction invoice",14,size,817,a4,a5
+156,"transaction invoice",14,size,1501,invoice_105_3x100,a5
+156,"transaction invoice",27,amount_in_block,913,amount_in_block_50,amount_in_block_25
+156,"transaction invoice",27,amount_in_block,1500,amount_in_block_25,amount_in_block_25
+156,"transaction invoice",30,fix_it,1131,fix_it_no,fix_it_no
+156,"transaction invoice",30,fix_it,1130,fix_it_yes,fix_it_no
+156,"transaction invoice",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+156,"transaction invoice",38,check_copies,1496,check_copies_original_and_two_copies,check_copies_original_and_two_copies
+157,"receipts ",4,colors,794,print_color_black,print_color_black
+157,"receipts ",13,production_time,754,budget,budget
+157,"receipts ",13,production_time,1134,industrial,budget
+157,"receipts ",14,size,818,a5,a5
+157,"receipts ",14,size,817,a4,a5
+157,"receipts ",14,size,1501,invoice_105_3x100,a5
+157,"receipts ",27,amount_in_block,913,amount_in_block_50,amount_in_block_25
+157,"receipts ",27,amount_in_block,1500,amount_in_block_25,amount_in_block_25
+157,"receipts ",30,fix_it,1131,fix_it_no,fix_it_no
+157,"receipts ",30,fix_it,1130,fix_it_yes,fix_it_no
+157,"receipts ",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+157,"receipts ",38,check_copies,1496,check_copies_original_and_two_copies,check_copies_original_and_two_copies
+158,"work orders",4,colors,794,print_color_black,print_color_black
+158,"work orders",13,production_time,754,budget,budget
+158,"work orders",13,production_time,1134,industrial,budget
+158,"work orders",14,size,818,a5,a5
+158,"work orders",14,size,817,a4,a5
+158,"work orders",14,size,1501,invoice_105_3x100,a5
+158,"work orders",27,amount_in_block,913,amount_in_block_50,amount_in_block_25
+158,"work orders",27,amount_in_block,1500,amount_in_block_25,amount_in_block_25
+158,"work orders",30,fix_it,1131,fix_it_no,fix_it_no
+158,"work orders",30,fix_it,1130,fix_it_yes,fix_it_no
+158,"work orders",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+158,"work orders",38,check_copies,1496,check_copies_original_and_two_copies,check_copies_original_and_two_copies
+159,"shipping documents",4,colors,794,print_color_black,print_color_black
+159,"shipping documents",13,production_time,754,budget,budget
+159,"shipping documents",13,production_time,1134,industrial,budget
+159,"shipping documents",14,size,818,a5,a5
+159,"shipping documents",14,size,817,a4,a5
+159,"shipping documents",14,size,1501,invoice_105_3x100,a5
+159,"shipping documents",27,amount_in_block,913,amount_in_block_50,amount_in_block_25
+159,"shipping documents",27,amount_in_block,1500,amount_in_block_25,amount_in_block_25
+159,"shipping documents",30,fix_it,1131,fix_it_no,fix_it_no
+159,"shipping documents",30,fix_it,1130,fix_it_yes,fix_it_no
+159,"shipping documents",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+159,"shipping documents",38,check_copies,1496,check_copies_original_and_two_copies,check_copies_original_and_two_copies
+160,"order form",4,colors,794,print_color_black,print_color_black
+160,"order form",13,production_time,754,budget,budget
+160,"order form",13,production_time,1134,industrial,budget
+160,"order form",14,size,818,a5,a5
+160,"order form",14,size,817,a4,a5
+160,"order form",14,size,1501,invoice_105_3x100,a5
+160,"order form",27,amount_in_block,913,amount_in_block_50,amount_in_block_25
+160,"order form",27,amount_in_block,1500,amount_in_block_25,amount_in_block_25
+160,"order form",30,fix_it,1131,fix_it_no,fix_it_no
+160,"order form",30,fix_it,1130,fix_it_yes,fix_it_no
+160,"order form",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+160,"order form",38,check_copies,1496,check_copies_original_and_two_copies,check_copies_original_and_two_copies
+161,package,4,colors,1400,print_color_colorful,print_color_colorful
+161,package,6,lamination,842,lamination_1side_matte,lamination_1side_glossy
+161,package,6,lamination,844,lamination_1side_glossy,lamination_1side_glossy
+161,package,13,production_time,1134,industrial,industrial
+161,package,14,size,1502,package_645x614,package_645x614
+161,package,14,size,1503,package_854x876,package_645x614
+161,package,14,size,1504,package_1125x868,package_645x614
+161,package,30,fix_it,1131,fix_it_no,fix_it_no
+161,package,30,fix_it,1130,fix_it_yes,fix_it_no
+161,package,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+162,notebook_spiral_hardcover,4,colors,1400,print_color_colorful,print_color_colorful
+162,notebook_spiral_hardcover,5,pattern_inner_pages,1061,notebook_inner_blank,notebook_inner_lines
+162,notebook_spiral_hardcover,5,pattern_inner_pages,1062,notebook_inner_lines,notebook_inner_lines
+162,notebook_spiral_hardcover,5,pattern_inner_pages,1063,notebook_inner_grid,notebook_inner_lines
+162,notebook_spiral_hardcover,13,production_time,754,budget,budget
+162,notebook_spiral_hardcover,13,production_time,1134,industrial,budget
+162,notebook_spiral_hardcover,14,size,1511,notebook_spiral_hardcover_a5,notebook_spiral_hardcover_a5
+162,notebook_spiral_hardcover,14,size,1512,notebook_spiral_hardcover_a4,notebook_spiral_hardcover_a5
+162,notebook_spiral_hardcover,30,fix_it,1131,fix_it_no,fix_it_no
+162,notebook_spiral_hardcover,30,fix_it,1130,fix_it_yes,fix_it_no
+163,booklets,1,paper,1525,chromo_matte_250g,chromo_matte_250g
+163,booklets,2,format,834,horizontal,vertical
+163,booklets,2,format,835,vertical,vertical
+163,booklets,3,pages,1531,booklets_12,booklets_12
+163,booklets,3,pages,1532,booklets_16,booklets_12
+163,booklets,3,pages,1533,booklets_20,booklets_12
+163,booklets,3,pages,1534,booklets_24,booklets_12
+163,booklets,3,pages,1535,booklets_28,booklets_12
+163,booklets,3,pages,1536,booklets_32,booklets_12
+163,booklets,3,pages,1537,booklets_36,booklets_12
+163,booklets,3,pages,1538,booklets_40,booklets_12
+163,booklets,3,pages,1539,booklets_44,booklets_12
+163,booklets,4,colors,1400,print_color_colorful,print_color_colorful
+163,booklets,6,lamination,842,lamination_1side_matte,lamination_1side_matte
+163,booklets,6,lamination,844,lamination_1side_glossy,lamination_1side_matte
+163,booklets,13,production_time,1134,industrial,budget
+163,booklets,13,production_time,754,budget,budget
+163,booklets,14,size,1046,notebook_pin_a5,notebook_pin_a5
+163,booklets,14,size,1047,notebook_pin_a4,notebook_pin_a5
+163,booklets,28,paper_inner_pages,954,paper_inner_pages_chromo_matte_135,paper_inner_pages_chromo_matte_135
+163,booklets,30,fix_it,1130,fix_it_yes,fix_it_yes
+164,"Folder with printed pocket",1,paper,822,chromo_matte_300,chromo_matte_300
+164,"Folder with printed pocket",4,colors,1400,print_color_colorful,print_color_colorful
+164,"Folder with printed pocket",6,lamination,842,lamination_1side_matte,lamination_1side_matte
+164,"Folder with printed pocket",6,lamination,844,lamination_1side_glossy,lamination_1side_matte
+164,"Folder with printed pocket",13,production_time,1134,industrial,budget
+164,"Folder with printed pocket",13,production_time,754,budget,budget
+164,"Folder with printed pocket",14,size,1519,folder_with_printed_pocket,folder_with_printed_pocket
+164,"Folder with printed pocket",25,folder_flap,905,folder_flap_one_left,folder_flap_one_left
+164,"Folder with printed pocket",25,folder_flap,907,folder_flap_two,folder_flap_one_left
+164,"Folder with printed pocket",30,fix_it,1131,fix_it_no,fix_it_no
+164,"Folder with printed pocket",30,fix_it,1130,fix_it_yes,fix_it_no
+164,"Folder with printed pocket",32,scodix,1330,scodix_gloss,scodix_no
+164,"Folder with printed pocket",32,scodix,1331,scodix_gold,scodix_no
+164,"Folder with printed pocket",32,scodix,1332,scodix_silver,scodix_no
+164,"Folder with printed pocket",32,scodix,1522,scodix_no,scodix_no
+164,"Folder with printed pocket",33,printed_side,1398,printed_side_simplex,printed_side_simplex
+164,"Folder with printed pocket",33,printed_side,1399,printed_side_duplex,printed_side_simplex
+999,Offline,4,colors,1400,print_color_colorful,print_color_colorful
+999,Offline,13,production_time,754,budget,budget
+999,Offline,13,production_time,1134,industrial,budget
+999,Offline,30,fix_it,1131,fix_it_no,fix_it_no
+999,Offline,30,fix_it,1130,fix_it_yes,fix_it_no
+165,balloon,4,colors,794,print_color_black,print_color_black
+165,balloon,4,colors,796,print_color_white,print_color_black
+165,balloon,13,production_time,754,budget,budget
+165,balloon,13,production_time,1134,industrial,budget
+165,balloon,14,size,1520,balloon_10x10,balloon_10x10
+165,balloon,15,product_color,1087,product_color_black,shirt_yellow
+165,balloon,15,product_color,1088,product_color_white,shirt_yellow
+165,balloon,15,product_color,808,pen_blue,shirt_yellow
+165,balloon,15,product_color,809,pen_red,shirt_yellow
+165,balloon,15,product_color,863,pen_pink,shirt_yellow
+165,balloon,15,product_color,864,pen_purple,shirt_yellow
+165,balloon,15,product_color,885,shirt_yellow,shirt_yellow
+165,balloon,30,fix_it,1131,fix_it_no,fix_it_no
+165,balloon,30,fix_it,1130,fix_it_yes,fix_it_no
+166,chocolate_coins,4,colors,1400,print_color_colorful,print_color_colorful
+166,chocolate_coins,13,production_time,754,budget,budget
+166,chocolate_coins,13,production_time,1134,industrial,budget
+166,chocolate_coins,14,size,1523,chocolate_coins_33x33,chocolate_coins_33x33
+166,chocolate_coins,15,product_color,897,candies_orange,candies_orange
+166,chocolate_coins,15,product_color,898,candies_pink,candies_orange
+166,chocolate_coins,15,product_color,899,candies_red,candies_orange
+166,chocolate_coins,15,product_color,900,candies_silver,candies_orange
+166,chocolate_coins,15,product_color,1005,sweatshirt_purple,candies_orange
+166,chocolate_coins,15,product_color,1115,metal_pen_gold,candies_orange
+166,chocolate_coins,30,fix_it,1131,fix_it_no,fix_it_no
+166,chocolate_coins,30,fix_it,1130,fix_it_yes,fix_it_no
+166,chocolate_coins,33,printed_side,1398,printed_side_simplex,printed_side_simplex
+166,chocolate_coins,33,printed_side,1399,printed_side_duplex,printed_side_simplex
+167,umbrella,4,colors,794,print_color_black,print_color_black
+167,umbrella,4,colors,796,print_color_white,print_color_black
+167,umbrella,13,production_time,754,budget,budget
+167,umbrella,13,production_time,1134,industrial,budget
+167,umbrella,14,size,1524,umbrella_17x11,umbrella_17x11
+167,umbrella,15,product_color,1087,product_color_black,product_color_black
+167,umbrella,15,product_color,900,candies_silver,product_color_black
+167,umbrella,30,fix_it,1131,fix_it_no,fix_it_no
+167,umbrella,30,fix_it,1130,fix_it_yes,fix_it_no
+168,instawall_kappa,2,format,834,horizontal,horizontal
+168,instawall_kappa,2,format,835,vertical,horizontal
+168,instawall_kappa,2,format,929,square,horizontal
+168,instawall_kappa,4,colors,1400,print_color_colorful,print_color_colorful
+168,instawall_kappa,13,production_time,754,budget,budget
+168,instawall_kappa,13,production_time,755,standard,budget
+168,instawall_kappa,13,production_time,1134,industrial,budget
+168,instawall_kappa,14,size,1540,instawall_kappa_70_50,instawall_kappa_70_50
+168,instawall_kappa,14,size,1541,instawall_kappa_50_50,instawall_kappa_70_50
+168,instawall_kappa,15,product_color,1088,product_color_white,product_color_white
+168,instawall_kappa,30,fix_it,1131,fix_it_no,fix_it_no
+168,instawall_kappa,30,fix_it,1130,fix_it_yes,fix_it_no
+169,blanket,4,colors,1400,print_color_colorful,print_color_colorful
+169,blanket,13,production_time,1134,industrial,industrial
+169,blanket,14,size,1543,blanke_a4,blanke_a4
+169,blanket,15,product_color,1088,product_color_white,product_color_white
+169,blanket,30,fix_it,1131,fix_it_no,fix_it_no
+169,blanket,30,fix_it,1130,fix_it_yes,fix_it_no
+170,zipper_hoodie,2,format,765,front_small,front_small
+170,zipper_hoodie,2,format,853,front_small_back,front_small
+170,zipper_hoodie,2,format,855,back,front_small
+170,zipper_hoodie,4,colors,794,print_color_black,print_color_black
+170,zipper_hoodie,4,colors,796,print_color_white,print_color_black
+170,zipper_hoodie,13,production_time,1134,industrial,industrial
+170,zipper_hoodie,14,size,1544,zipper_hoodie_a4,zipper_hoodie_a4
+170,zipper_hoodie,14,size,1545,zipper_hoodie_9x9,zipper_hoodie_a4
+170,zipper_hoodie,15,product_color,1087,product_color_black,product_color_black
+170,zipper_hoodie,15,product_color,1088,product_color_white,product_color_black
+170,zipper_hoodie,15,product_color,797,shirt_dark_blue,product_color_black
+170,zipper_hoodie,15,product_color,881,shirt_grey,product_color_black
+170,zipper_hoodie,23,clothing_size,869,size_s,size_m
+170,zipper_hoodie,23,clothing_size,870,size_m,size_m
+170,zipper_hoodie,23,clothing_size,871,size_l,size_m
+170,zipper_hoodie,23,clothing_size,872,size_xl,size_m
+170,zipper_hoodie,30,fix_it,1131,fix_it_no,fix_it_no
+170,zipper_hoodie,30,fix_it,1130,fix_it_yes,fix_it_no
+171,neck_gaiter,4,colors,1400,print_color_colorful,print_color_colorful
+171,neck_gaiter,13,production_time,1134,industrial,industrial
+171,neck_gaiter,14,size,1546,neck_gaiter_9x9,neck_gaiter_9x9
+171,neck_gaiter,15,product_color,809,pen_red,pen_red
+171,neck_gaiter,15,product_color,797,shirt_dark_blue,pen_red
+171,neck_gaiter,15,product_color,881,shirt_grey,pen_red
+171,neck_gaiter,15,product_color,975,hat_olive,pen_red
+171,neck_gaiter,30,fix_it,1131,fix_it_no,fix_it_no
+171,neck_gaiter,30,fix_it,1130,fix_it_yes,fix_it_no
+172,wool_cap,4,colors,1400,print_color_colorful,print_color_colorful
+172,wool_cap,13,production_time,1134,industrial,industrial
+172,wool_cap,14,size,1547,wool_cap_6x6,wool_cap_6x6
+172,wool_cap,15,product_color,1087,product_color_black,product_color_black
+172,wool_cap,15,product_color,1088,product_color_white,product_color_black
+172,wool_cap,15,product_color,808,pen_blue,product_color_black
+172,wool_cap,15,product_color,809,pen_red,product_color_black
+172,wool_cap,15,product_color,863,pen_pink,product_color_black
+172,wool_cap,15,product_color,867,pen_yellow,product_color_black
+172,wool_cap,15,product_color,797,shirt_dark_blue,product_color_black
+172,wool_cap,15,product_color,975,hat_olive,product_color_black
+172,wool_cap,15,product_color,978,work_pants_beige,product_color_black
+172,wool_cap,30,fix_it,1131,fix_it_no,fix_it_no
+172,wool_cap,30,fix_it,1130,fix_it_yes,fix_it_no
+173,"wireless charging stand",4,colors,794,print_color_black,print_color_black
+173,"wireless charging stand",4,colors,796,print_color_white,print_color_black
+173,"wireless charging stand",13,production_time,754,budget,budget
+173,"wireless charging stand",13,production_time,1134,industrial,budget
+173,"wireless charging stand",14,size,1557,wireless_charging_stand_50x50,wireless_charging_stand_50x50
+173,"wireless charging stand",15,product_color,1087,product_color_black,product_color_black
+173,"wireless charging stand",15,product_color,1088,product_color_white,product_color_black
+173,"wireless charging stand",30,fix_it,1131,fix_it_no,fix_it_no
+173,"wireless charging stand",30,fix_it,1130,fix_it_yes,fix_it_no
+174,"phone and tablet stand",4,colors,794,print_color_black,print_color_black
+174,"phone and tablet stand",4,colors,796,print_color_white,print_color_black
+174,"phone and tablet stand",13,production_time,754,budget,budget
+174,"phone and tablet stand",13,production_time,1134,industrial,budget
+174,"phone and tablet stand",14,size,1558,phone_and_tablet_stand_50x50,phone_and_tablet_stand_50x50
+174,"phone and tablet stand",15,product_color,1087,product_color_black,product_color_black
+174,"phone and tablet stand",15,product_color,1088,product_color_white,product_color_black
+174,"phone and tablet stand",30,fix_it,1131,fix_it_no,fix_it_no
+174,"phone and tablet stand",30,fix_it,1130,fix_it_yes,fix_it_no
+175,"Album printing",4,colors,1400,print_color_colorful,print_color_colorful
+175,"Album printing",13,production_time,1134,industrial,budget
+175,"Album printing",13,production_time,754,budget,budget
+175,"Album printing",13,production_time,755,standard,budget
+175,"Album printing",13,production_time,756,express,budget
+175,"Album printing",14,size,760,envelope_11x23,envelope_11x23
+175,"Album printing",14,size,761,envelope_16x23_7,envelope_11x23
+175,"Album printing",14,size,875,envelope_23x33_5,envelope_11x23
+175,"Album printing",30,fix_it,1131,fix_it_no,fix_it_no
+175,"Album printing",30,fix_it,1130,fix_it_yes,fix_it_no
+176,"printing pictures",4,colors,1400,print_color_colorful,print_color_colorful
+176,"printing pictures",13,production_time,1134,industrial,budget
+176,"printing pictures",13,production_time,754,budget,budget
+176,"printing pictures",13,production_time,755,standard,budget
+176,"printing pictures",13,production_time,756,express,budget
+176,"printing pictures",14,size,760,envelope_11x23,envelope_11x23
+176,"printing pictures",14,size,761,envelope_16x23_7,envelope_11x23
+176,"printing pictures",14,size,875,envelope_23x33_5,envelope_11x23
+176,"printing pictures",30,fix_it,1131,fix_it_no,fix_it_no
+176,"printing pictures",30,fix_it,1130,fix_it_yes,fix_it_no
+177,Calendar,4,colors,1400,print_color_colorful,print_color_colorful
+177,Calendar,13,production_time,1134,industrial,budget
+177,Calendar,13,production_time,754,budget,budget
+177,Calendar,13,production_time,755,standard,budget
+177,Calendar,13,production_time,756,express,budget
+177,Calendar,14,size,760,envelope_11x23,envelope_11x23
+177,Calendar,14,size,761,envelope_16x23_7,envelope_11x23
+177,Calendar,14,size,875,envelope_23x33_5,envelope_11x23
+177,Calendar,30,fix_it,1131,fix_it_no,fix_it_no
+177,Calendar,30,fix_it,1130,fix_it_yes,fix_it_no
+178,#instawall,4,colors,1400,print_color_colorful,print_color_colorful
+178,#instawall,13,production_time,1134,industrial,budget
+178,#instawall,13,production_time,754,budget,budget
+178,#instawall,13,production_time,755,standard,budget
+178,#instawall,13,production_time,756,express,budget
+178,#instawall,14,size,760,envelope_11x23,envelope_11x23
+178,#instawall,14,size,761,envelope_16x23_7,envelope_11x23
+178,#instawall,14,size,875,envelope_23x33_5,envelope_11x23
+178,#instawall,30,fix_it,1131,fix_it_no,fix_it_no
+178,#instawall,30,fix_it,1130,fix_it_yes,fix_it_no
+179,albumix,4,colors,1400,print_color_colorful,print_color_colorful
+179,albumix,13,production_time,1134,industrial,budget
+179,albumix,13,production_time,754,budget,budget
+179,albumix,13,production_time,755,standard,budget
+179,albumix,13,production_time,756,express,budget
+179,albumix,14,size,760,envelope_11x23,envelope_11x23
+179,albumix,14,size,761,envelope_16x23_7,envelope_11x23
+179,albumix,14,size,875,envelope_23x33_5,envelope_11x23
+179,albumix,30,fix_it,1131,fix_it_no,fix_it_no
+179,albumix,30,fix_it,1130,fix_it_yes,fix_it_no
