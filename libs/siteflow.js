@@ -12,7 +12,7 @@ export const createOrder = async(orderObj) => {
     let headers = createHeaders("POST",endpoint) ;
     headers['Content-Type']= "application/json";
     let url = baseURL + endpoint;
-    console.log(url);
+    //console.log(url);
     let resp = await http.post(headers,orderObj,url);
     return resp;
 };

@@ -25,88 +25,39 @@ export const processOrder = async (orderBaseDir) => {
   skuFile = process.env.SKUFILE;
   pixDefFile = process.env.PIXDEFFILE;
   bucketName = process.env.BUCKETNAME;
-  await initHashs();
-
+ 
   */
   let orderID =  pt.parse(orderBaseDir).name;
 
   let orderFile = await utils.findFileWithExt(orderBaseDir, "txt");
   console.log("I am in process order with orderfile " + orderFile);
   
-  //let attributeFile = "./lookupFiles/attributesLookup.csv";
   let attributeFile = process.env.ATTRIBUTEFILE;
-  //let skuFile = "./lookupFiles/skus.csv";
   let skuFile = process.env.SKUFILE;
-//  let pixDefFile = "./lookupFiles/pixDefinitions.csv";
   let pixDefFile = process.env.PIXDEFFILE;
-//  let bucketName = "rauch-upload";
   let bucketName = process.env.BUCKETNAME;
+
   let attributeHash = await prepareCSV2Hash(attributeFile, 1, 3);
-  //console.log(JSON.stringify(attributeHash));
-  //return;
   let skuHash = await prepareCSV2Hash(skuFile, 0, -1);
-  //console.log(skuHash);
-  //process.exit();
   let pixDefHash = await prepareCSV2Hash(pixDefFile, 0, -1);
-  //console.log(pixDefHash);
+  //console.log(JSON.stringify(skuHash));
   
   let content = fs.readFileSync(orderFile);
   let original_charset = "iso-8859-8";
   let allFileContents = iconv.decode(content, original_charset.toString());
- 
-
-/*
-  let orderFileParsed = {};
-  let currItem = [];
-  let sku = "NoVal";
-  let bucketName = "rauch-upload";
-  let itemNum = 0;
-  allFileContents.split(/\r?\n/).forEach(line => {
-    //console.log("Line: "+line);
-    let tags = line.split("\t");
-    let tag = tags[0];
-    let val = tags[1];
-    let currTagObj = {};
-    currTagObj[tag] = val;
-    currItem.push(currTagObj);
-    // console.log(currItem);
-    switch (tag) {
-      case "M.1":
-        currItem = [];
-        sku = "NoVal";
-        break;
-      case "M.1.3":
-        let skuInd = val.substring(0, 3);
-        console.log("skuInd: " + skuInd);
-        if (skuInd in skuHash && skuHash[skuInd]["Implemented"]) {
-          sku = skuHash[skuInd]["SFProduct"];
-        }
-        //  console.log("SKUIND: " + skuInd);
-        //  console.log("SKU: " + sku);
-        break;
-      case "Z.1":
-        //  console.log("Z.1 sku: " + sku)
-        if (sku != "NoVal") {
-          console.log("index: " + itemNum);
-          orderFileParsed[itemNum] = {};
-          orderFileParsed[itemNum]["sku"] = sku;
-          orderFileParsed[itemNum]["details"] = currItem;
-        }
-        itemNum += 1;
-        break;
-    }
-
-  });
-
-*/
+  console.log(allFileContents);
+  
   let processOrder = true;
   let orderFileParsed = {};
   orderFileParsed = await prepareOrderFile(allFileContents,skuHash);
-  if (Object.keys(orderFileParsed) == 0) {
+  console.log(JSON.stringify(orderFileParsed));
+  //process.exit();
+  if (Object.keys(orderFileParsed).length == 0) {
     console.log("No implemented products in order " + orderID);
+    console.log("objects in orderFileParsed " + Object.keys(orderFileParsed));
     processOrder = false;
   } else {
-    console.log(JSON.stringify(orderFileParsed));
+    //console.log(JSON.stringify(orderFileParsed));
    // process.exit();
 
     let siteFlowObj = {};
@@ -121,7 +72,7 @@ export const processOrder = async (orderBaseDir) => {
     siteFlowObj["destination"] = destination;
 
     for (let itemNo in orderFileParsed) {
-      console.log("****** ItemNo: "+itemNo);
+      //console.log("****** ItemNo: "+itemNo);
       let tags = orderFileParsed[itemNo]["details"];
       let sku = orderFileParsed[itemNo]["sku"];
       let component = orderFileParsed[itemNo]["component"];
@@ -135,7 +86,7 @@ export const processOrder = async (orderBaseDir) => {
         let tag = Object.keys(tags[i])[0];
         let val = tags[i][tag];
         let path = "";
-        console.log("tag: " + tag + " val: " + val);
+        //console.log("tag: " + tag + " val: " + val);
         switch (tag) {
           //case "M.1.4":
           case "M.1.4":
@@ -228,14 +179,9 @@ export const processOrder = async (orderBaseDir) => {
     siteFlowObj["orderData"]["shipments"] = [];
 
     siteFlowObj["orderData"]["shipments"].push(shipments);
-    const used = process.memoryUsage().heapUsed / 1024 / 1024;
-    console.log(`The script uses approximately ${Math.round(used * 100) / 100} MB`);
-
-    console.log(JSON.stringify(siteFlowObj));
-
 
     let resp = await sf.createOrder(siteFlowObj);
-    console.log(JSON.stringify(resp));
+    //console.log(JSON.stringify(resp));
     processOrder = true;
   };
   return processOrder;
@@ -393,7 +339,7 @@ async function prepareCSV2Hash(fileName, hashColumn, valueCodeColumn) {
 };
 
 async function prepareOrderFile(allFileContents,skuHash) {
-  console.log(JSON.stringify(allFileContents));
+  //console.log(JSON.stringify(allFileContents));
 
   let orderFileParsed = {};
   let currItem = [];
@@ -417,6 +363,7 @@ async function prepareOrderFile(allFileContents,skuHash) {
         case "M.1.3":
           let skuInd = val.substring(0, 3);
           console.log("skuInd: " + skuInd);
+          console.log("sku: " + JSON.stringify(skuHash[skuInd]));
           if (skuInd in skuHash && skuHash[skuInd]["Implemented"]) {
             sku = skuHash[skuInd]["SFProduct"];
             component = skuHash[skuInd]["Component"];
@@ -430,7 +377,7 @@ async function prepareOrderFile(allFileContents,skuHash) {
           //  console.log("SKU: " + sku);
           break;
         case "Z.1":
-          //  console.log("Z.1 sku: " + sku)
+          console.log("Z.1 sku: " + sku)
           if (sku != "NoVal") {
             console.log("index: " + itemNum);
             orderFileParsed[itemNum] = {};
@@ -444,16 +391,3 @@ async function prepareOrderFile(allFileContents,skuHash) {
     });
     return orderFileParsed;
   }
-
-async function initHashs() {
-  if (Object.keys(attributeHash)==0) {
-    attributeHash = await prepareCSV2Hash(attributeFile, 1, 3);
-  };
-  if (Object.keys(attributeHash)==0) {
-    skuHash = await prepareCSV2Hash(skuFile, 0, -1);
-  };
-  if (Object.keys(attributeHash)==0) {
-    pixDefHash = await prepareCSV2Hash(pixDefFile, 0, -1);
-  };
-
-}

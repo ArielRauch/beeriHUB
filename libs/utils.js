@@ -9,6 +9,7 @@ export const findFileWithExt = (directoryPath,ext) => {
                 reject('Unable to scan directory: ' + err);
             } 
             // Loop through all the files in the directory
+            files = files.filter(item => !(/(^|\/)\.[^\/\.]/g).test(item));
             files.forEach((file) => {
                 // Check if file is a .txt file
                 if (extname(file) === "."+ext) {
