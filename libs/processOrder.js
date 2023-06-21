@@ -14,8 +14,6 @@ import * as utils from "./utils.js";
 //import crypto from 'crypto';
 //import CryptoJS from 'crypto-js';
 
-
-
 //let orderFile = "/Users/arielrauch/Documents/Development/Customers/Beeri/beeriHUB/testInput/600038402/700_600038402.txt";
 
 export const processOrder = async (orderBaseDir) => {
@@ -179,6 +177,7 @@ export const processOrder = async (orderBaseDir) => {
     siteFlowObj["orderData"]["shipments"] = [];
 
     siteFlowObj["orderData"]["shipments"].push(shipments);
+    console.log(JSON.stringify(siteFlowObj));
 
     let resp = await sf.createOrder(siteFlowObj);
     //console.log(JSON.stringify(resp));

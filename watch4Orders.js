@@ -8,6 +8,7 @@ console.log('dotenv.config() has finished executing');
 
 
 console.log("JJJJJ: " +process.env.BUCKETNAME );
+
 import * as po from "./libs/processOrder.js";
 import * as utils from "./libs/utils.js";
 
