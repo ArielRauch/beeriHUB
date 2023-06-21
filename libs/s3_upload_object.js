@@ -28,7 +28,7 @@ export const run = async (def) => {
       console.log("Success", data);
       return data; // For unit tests.
     } catch (err) {
-      console.log("Error", err);
+      console.log("runError: ", err);
     }
   };
   /*
