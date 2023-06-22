@@ -74,6 +74,14 @@ export const processOrder = async (orderBaseDir) => {
       let tags = orderFileParsed[itemNo]["details"];
       let sku = orderFileParsed[itemNo]["sku"];
       let component = orderFileParsed[itemNo]["component"];
+
+      let infotech =  orderFileParsed[itemNo]["infotech"];
+      let infotechCopies =  orderFileParsed[itemNo]["infotechCopies"];
+      let infotechPadding =  orderFileParsed[itemNo]["infotechPadding"];
+      let infotechExternal = orderFileParsed[itemNo]["infotechExternal"];
+      let infotechImpose = orderFileParsed[itemNo]["infotechImpose"];
+      let infotechTemplateId = orderFileParsed[itemNo]["infotechTemplateId"];
+
       params["itemNum"] += 1;
       //  console.log("params: " + params["itemNum"]);
       let componentID = 0
@@ -96,6 +104,15 @@ export const processOrder = async (orderBaseDir) => {
             let fileURL = "http://" + bucketName + ".s3.amazonaws.com/" + fileName;
             siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["path"] = fileURL;
             siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["fetch"] = true;
+
+            siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotech"] = infotech;
+            siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotechCopies"] = infotechCopies;
+            siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotechPadding"] = infotechPadding;
+            siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotechExternal"] = infotechExternal;
+            siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotechImpose"] = infotechImpose;
+            siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotechTemplateId"] = infotechTemplateId;
+            
+
             let itemPDFLoc = orderBaseDir + "/" + "item_" + itemID;
             let itemFile = await utils.findFileWithExt(itemPDFLoc, "pdf");
             //s3.uploadFile(bucketName,fileName,"/Users/arielrauch/Documents/Development/Customers/Beeri/beeriHUB/testInput/600038451/item_60834/prod_152_1623612041_71.pdf");
