@@ -361,6 +361,13 @@ async function prepareOrderFile(allFileContents,skuHash) {
   let currItem = [];
   let sku = "NoVal";
   let component = "NoVal";
+  let infotech =  "NoVal";
+  let infotechCopies =  "NoVal";
+  let infotechPadding =  "NoVal";
+  let infotechExternal = "NoVal";
+  let infotechImpose = "NoVal";
+  let infotechTemplateId = "NoVal";
+
   let itemNum = 0;
   allFileContents.split(/\r?\n/).forEach(line => {
       //console.log("Line: "+line);
@@ -384,6 +391,17 @@ async function prepareOrderFile(allFileContents,skuHash) {
             sku = skuHash[skuInd]["SFProduct"];
             component = skuHash[skuInd]["Component"];
 
+            infotech =  skuHash[skuInd]["infotech"];
+            infotechCopies =   skuHash[skuInd]["infotechCopies"];
+            infotechPadding =   skuHash[skuInd]["infotechPadding"];
+            infotechExternal =  skuHash[skuInd]["infotechExternal"];
+            infotechImpose =  skuHash[skuInd]["infotechImpose"];
+            infotechTemplateId =  skuHash[skuInd]["infotechTemplateId"];
+      
+
+
+
+
           } else {
             console.log("Product " + skuInd + " is not implemented");
             return;
@@ -399,6 +417,13 @@ async function prepareOrderFile(allFileContents,skuHash) {
             orderFileParsed[itemNum] = {};
             orderFileParsed[itemNum]["sku"] = sku;
             orderFileParsed[itemNum]["component"] = component;
+
+            orderFileParsed[itemNum]["infotech"] = infotech;
+            orderFileParsed[itemNum]["infotechCopies"] = infotechCopies;
+            orderFileParsed[itemNum]["infotechPadding"] = infotechPadding;
+            orderFileParsed[itemNum]["infotechExternal"] = infotechExternal;
+            orderFileParsed[itemNum]["infotechImpose"] = infotechImpose;
+            orderFileParsed[itemNum]["infotechTemplateId"] = infotechTemplateId;
             orderFileParsed[itemNum]["details"] = currItem;
           }
           itemNum += 1;
