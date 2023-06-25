@@ -70,7 +70,8 @@ export const processOrder = async (orderBaseDir) => {
     siteFlowObj["destination"] = destination;
 
     for (let itemNo in orderFileParsed) {
-      //console.log("****** ItemNo: "+itemNo);
+      console.log("****** ItemNo: "+itemNo);
+      console.log("****" + JSON.stringify(orderFileParsed[itemNo]));
       let tags = orderFileParsed[itemNo]["details"];
       let sku = orderFileParsed[itemNo]["sku"];
       let component = orderFileParsed[itemNo]["component"];
