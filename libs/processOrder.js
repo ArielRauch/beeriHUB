@@ -434,8 +434,9 @@ async function prepareOrderFile(allFileContents,skuHash) {
             orderFileParsed[itemNum]["infotechExternal"] = infotechExternal;
             orderFileParsed[itemNum]["infotechImpose"] = infotechImpose;
             orderFileParsed[itemNum]["infotechTemplateId"] = infotechTemplateId;
-            orderFileParsed[itemNum]["details"] = currItem;
 */
+            orderFileParsed[itemNum]["details"] = currItem;
+
           }
           itemNum += 1;
           break;
