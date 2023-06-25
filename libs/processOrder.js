@@ -75,13 +75,14 @@ export const processOrder = async (orderBaseDir) => {
       let sku = orderFileParsed[itemNo]["sku"];
       let component = orderFileParsed[itemNo]["component"];
 
+      /*
       let infotech =  orderFileParsed[itemNo]["infotech"];
       let infotechCopies =  orderFileParsed[itemNo]["infotechCopies"];
       let infotechPadding =  orderFileParsed[itemNo]["infotechPadding"];
       let infotechExternal = orderFileParsed[itemNo]["infotechExternal"];
       let infotechImpose = orderFileParsed[itemNo]["infotechImpose"];
       let infotechTemplateId = orderFileParsed[itemNo]["infotechTemplateId"];
-
+      */
       params["itemNum"] += 1;
       //  console.log("params: " + params["itemNum"]);
       let componentID = 0
@@ -104,14 +105,14 @@ export const processOrder = async (orderBaseDir) => {
             let fileURL = "http://" + bucketName + ".s3.amazonaws.com/" + fileName;
             siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["path"] = fileURL;
             siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["fetch"] = true;
-
+/*
             siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotech"] = infotech;
             siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotechCopies"] = infotechCopies;
             siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotechPadding"] = infotechPadding;
             siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotechExternal"] = infotechExternal;
             siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotechImpose"] = infotechImpose;
             siteFlowObj["orderData"]["items"][params["itemNum"]]["components"][componentID]["infotechTemplateId"] = infotechTemplateId;
-            
+ */           
 
             let itemPDFLoc = orderBaseDir + "/" + "item_" + itemID;
             let itemFile = await utils.findFileWithExt(itemPDFLoc, "pdf");
@@ -361,13 +362,14 @@ async function prepareOrderFile(allFileContents,skuHash) {
   let currItem = [];
   let sku = "NoVal";
   let component = "NoVal";
+  /*
   let infotech =  "NoVal";
   let infotechCopies =  "NoVal";
   let infotechPadding =  "NoVal";
   let infotechExternal = "NoVal";
   let infotechImpose = "NoVal";
   let infotechTemplateId = "NoVal";
-
+*/
   let itemNum = 0;
   allFileContents.split(/\r?\n/).forEach(line => {
       //console.log("Line: "+line);
@@ -390,18 +392,25 @@ async function prepareOrderFile(allFileContents,skuHash) {
           if (skuInd in skuHash && skuHash[skuInd]["Implemented"]) {
             sku = skuHash[skuInd]["SFProduct"];
             component = skuHash[skuInd]["Component"];
-
-            infotech =  skuHash[skuInd]["infotech"];
-            infotechCopies =   skuHash[skuInd]["infotechCopies"];
-            infotechPadding =   skuHash[skuInd]["infotechPadding"];
-            infotechExternal =  skuHash[skuInd]["infotechExternal"];
-            infotechImpose =  skuHash[skuInd]["infotechImpose"];
+            /*
+            "infotech": true,
+              "infotechCopies": 1,
+              "infotechPadding": 1,
+              "infotechExternal": true,
+              "infotechImpose": false,
+              "infotechTemplateId":"634821be74f5470008deba42",
+            */
+           /*
+            infotech = skuHash[skuInd]["infotech"].toLowerCase() == "true" ? true : false;
+            //infotech =  skuHash[skuInd]["infotech"];
+            infotechCopies =   parseInt(skuHash[skuInd]["infotechCopies"]);
+            infotechPadding =   parseInt(skuHash[skuInd]["infotechPadding"]);
+            //infotechExternal =  skuHash[skuInd]["infotechExternal"];
+            infotechExternal = skuHash[skuInd]["infotechExternal"].toLowerCase() == "true" ? true : false;
+            //infotechImpose =  skuHash[skuInd]["infotechImpose"];
+            infotechImpose = skuHash[skuInd]["infotechImpose"].toLowerCase() == "true" ? true : false;
             infotechTemplateId =  skuHash[skuInd]["infotechTemplateId"];
-      
-
-
-
-
+            */
           } else {
             console.log("Product " + skuInd + " is not implemented");
             return;
@@ -417,7 +426,7 @@ async function prepareOrderFile(allFileContents,skuHash) {
             orderFileParsed[itemNum] = {};
             orderFileParsed[itemNum]["sku"] = sku;
             orderFileParsed[itemNum]["component"] = component;
-
+/*
             orderFileParsed[itemNum]["infotech"] = infotech;
             orderFileParsed[itemNum]["infotechCopies"] = infotechCopies;
             orderFileParsed[itemNum]["infotechPadding"] = infotechPadding;
@@ -425,6 +434,7 @@ async function prepareOrderFile(allFileContents,skuHash) {
             orderFileParsed[itemNum]["infotechImpose"] = infotechImpose;
             orderFileParsed[itemNum]["infotechTemplateId"] = infotechTemplateId;
             orderFileParsed[itemNum]["details"] = currItem;
+*/
           }
           itemNum += 1;
           break;
